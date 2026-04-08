@@ -24951,3 +24951,797 @@ evidence date,select data points,all developments,community/building,sub communi
 03 Apr 2026,Title Deed,Al Barari,The Neighbourhood,C3,,1,2950000.0,1243.0,,2373.0,Apartment | 6455911,1,C312,Resale,-,Al Barari Development Company LLC,-,-,,,,,,,
 03 Apr 2026,Title Deed,Dubai Residence Complex,Bliss Homes,,,2,1328000.0,1154.0,,1151.0,Apartment | 6488657,1,101,Resale,-,Rashed Aljabri Real Estate Development,-,-,,,,,,,
 03 Apr 2026,Title Deed,Al Furjan,Al Furjan East,Avenue Residence 5,,1,1320000.0,799.0,,1652.0,Apartment | 5912999,10,1007,Resale,-,Nabni Developments,-,-,,,,,,,
+04 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 14,Legado by Prescott,,2,1735500.0,1531.0,,1134.0,Apartment | 6817225,8,805,Initial Sale,-,Prescott Real Estate Development L.L.C,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Meydan,Meydan Avenue,Arthouse Residences,Arthouse Residences Tower A,2,2267720.0,1036.0,,2189.0,Apartment | 6181283,2,208,Initial Sale,-,AVIAAN,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 12,AB Cavalier,,1,1283800.0,863.0,,1488.0,Apartment | 6816495,5,513,Initial Sale,-,AB Developers,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 14,Legado by Prescott,,1,1092500.0,681.0,,1604.0,Apartment | 6817225,3,310,Resale,-,Prescott Real Estate Development L.L.C,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Production City,Soul by Vision,,,1,1054700.0,810.0,,1302.0,Apartment | 6854431,9,904,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Meydan Horizon,The Caden,,,2,2922460.0,1359.0,,2150.0,Apartment | 6117271,6,606,Initial Sale,-,Prescott Real Estate Development L.L.C,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Studio City,Laya Courtyard,Laya Courtyard Building A,,1,1102147.0,685.0,,1609.0,Apartment | 6750295,4,A-407,Initial Sale,-,Akshara Global Real Estate Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Liwan,Reem by Vision,,,1,909700.0,836.0,,1088.0,Apartment | 6437709,4,405,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Elle Residences,,3,5594777.0,1619.0,,3456.0,Apartment | 1010587,2,205,Initial Sale,SEA+ROAD,Anax Developments,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana I,4,913750.0,2695.0,859.0,339.0,Townhouse | 5980350,G+3,T75,Resale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+04 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,1,1264000.0,538.0,,2349.0,Apartment | 6817800,33,A3313,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Production City,Soul by Vision,,,Studio,652400.0,474.0,,1376.0,Apartment | 6854431,9,916,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Business Bay,Urban Life,,,Studio,1387466.0,510.0,,2721.0,Apartment | 3460600,13,1311,Initial Sale,-,Urban Properties Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Title Deed,Palm Jumeirah,The Fronds,Frond N,,5,44000000.0,5474.0,7634.0,8038.0,Villa | 3812538,G+1,23,Resale,-,Nakheel,-,-,,,,-,-,-,-
+04 Apr 2026,Title Deed,Jumeirah Village Circle,JVC District 12,Ashton Park,Ashton Park Residences,1,1100000.0,734.0,,1499.0,Apartment | 6816717,5,501,Initial Sale,-,Mirfa IBC Developers,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Production City,Soul by Vision,,,3,1952600.0,1735.0,,1125.0,Apartment | 6854431,9,909,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana VII,4,1293400.0,2885.0,1066.0,448.0,Townhouse | 5981432,G+3,VILLA-276,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+04 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana VII,2,1629250.0,1396.0,1113.0,1167.0,Townhouse | 5981432,G+1,VILLA-144,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+04 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana VII,2,1440750.0,1396.0,1119.0,1032.0,Townhouse | 5981432,G+1,VILLA-14,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+04 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 13,Samana Waves,,Studio,500000.0,383.0,,1305.0,Apartment | 6817095,12,1206,Resale,-,Samana Developers,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Wasl Gate,Sola Residences,,,1,961000.0,773.0,,1243.0,Apartment | 5919562,1,113,Initial Sale,Neighbor,Wasl,-,-,,,,-,-,-,Yes
+04 Apr 2026,Title Deed,Jumeirah Golf Estates 2,Pinewood Village District,Pinewood Estate Homes,,4,9081777.0,4659.0,5588.0,1949.0,Townhouse | 6853506,G+2,S-TH069,Initial Sale,-,Jumeirah Golf Estates LLC,-,-,,,,-,-,-,-
+04 Apr 2026,Oqood,Haven,Verdes by Haven,Pine,,1,1046878.0,802.0,,1305.0,Apartment | 64810506,3,B4-307,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana VII,3,2130000.0,1758.0,2229.0,1212.0,Townhouse | 5981432,G+2,VILLA-63,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+04 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 17,The Borough,,Studio,739840.0,457.0,,1619.0,Apartment | 6817733,5,502,Initial Sale,-,Iconic Vista Real Estate Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana VII,3,1999500.0,1632.0,1598.0,1225.0,Townhouse | 5981432,G+1,VILLA-291,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+04 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana VII,2,1440750.0,1396.0,1119.0,1032.0,Townhouse | 5981432,G+1,VILLA-11,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+04 Apr 2026,Title Deed,Jumeirah Golf Estates 2,Ashwood Estates,,,4,11820000.0,6104.0,6135.0,1936.0,Villa | 6853694,G+2,S-V-081,Initial Sale,-,Jumeirah Golf Estates LLC,-,-,,,,-,-,-,-
+04 Apr 2026,Title Deed,Jumeirah Golf Estates 2,Ashwood Estates,,,4,12057000.0,6104.0,6135.0,1975.0,Villa | 6853693,G+2,S-V-080,Initial Sale,-,Jumeirah Golf Estates LLC,-,-,,,,-,-,-,-
+04 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 17,The Borough,,1,1249358.0,743.0,,1682.0,Apartment | 6817733,6,606,Initial Sale,-,Iconic Vista Real Estate Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Production City,Golf Terrace Residences,,,Studio,769000.0,494.0,,1557.0,Apartment | 6850754,7,707,Initial Sale,-,Asak Real Estate Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Title Deed,Jumeirah Golf Estates 2,Ashwood Estates,,,6,22159000.0,9178.0,10640.0,2414.0,Villa | 6853542,G+2,N-V-066,Initial Sale,-,Jumeirah Golf Estates LLC,-,-,,,,-,-,-,-
+04 Apr 2026,Title Deed,The Greens,Al Samar,Al Samar 4,,1,1500000.0,815.0,,1840.0,Apartment | 3881511,4,404,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+04 Apr 2026,Title Deed,Jumeirah Golf Estates 2,Ashwood Estates,,,4,12514000.0,6104.0,6639.0,2050.0,Villa | 6853600,G+2,N-V-047,Initial Sale,-,Jumeirah Golf Estates LLC,-,-,,,,-,-,-,-
+04 Apr 2026,Title Deed,Jumeirah Golf Estates 2,Ashwood Estates,,,4,12271000.0,6104.0,6280.0,2010.0,Villa | 6853599,G+2,N-V-046,Initial Sale,-,Jumeirah Golf Estates LLC,-,-,,,,-,-,-,-
+04 Apr 2026,Oqood,Dubai Harbour,Emaar Beachfront,Beachgate by Address,,3,6565888.0,1595.0,,4117.0,Apartment | 3920727,33,3305,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+04 Apr 2026,Title Deed,Jumeirah Golf Estates 2,Pinewood Village District,Pinewood Estate Homes,,3,5674777.0,3438.0,2383.0,1651.0,Townhouse | 6851877,G+1,N-TH059,Initial Sale,-,Jumeirah Golf Estates LLC,-,-,,,,-,-,-,-
+04 Apr 2026,Title Deed,Jumeirah Golf Estates 2,Ashwood Estates,,,4,13992000.0,6104.0,8691.0,2292.0,Villa | 6853628,G+2,N-V-043,Initial Sale,-,Jumeirah Golf Estates LLC,-,-,,,,-,-,-,-
+04 Apr 2026,Title Deed,The Wilds,Cassia,Cassia 1,,4,5976000.0,3350.0,4040.0,1784.0,Villa | 6457654,G+1,W2-P7-087,Initial Sale,-,Aldar Properties,-,-,,,,Cassia Villas,-,-,-
+04 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana VII,4,1338000.0,2885.0,1066.0,464.0,Townhouse | 5981432,G+3,VILLA-272,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+04 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana VII,4,1338000.0,2885.0,1066.0,464.0,Townhouse | 5981432,G+3,VILLA-279,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+04 Apr 2026,Oqood,Dubai Residence Complex,Le Blanc by Imtiaz,,,Studio,742283.0,422.0,,1759.0,Apartment | 6488591,7,704,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Meydan,Sukoon by Nuri,,,1,1469000.0,815.0,,1802.0,Apartment | 6181293,4,409,Initial Sale,-,Nuri Living,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Arjan,Arthouse Hills,,,2,2181421.0,1213.0,,1798.0,Apartment | 6730124,9,908,Initial Sale,-,Tuscany Real Estate Development,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Uptown Dubai,Mercer House,Mercer House South Tower,,3,5727828.0,2132.0,,2687.0,Apartment | 3934262,18,S-1809,Initial Sale,"Pool, Plaza",Ellington Properties,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 14,Norah Residence,,2,1900000.0,1449.0,,1311.0,Apartment | 6817236,11,1102,Initial Sale,-,Al Tareq Star,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Lume Residences,,Studio,707777.0,335.0,,2113.0,Apartment | 6817787,14,1405,Initial Sale,-,S&S Developments,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Lume Residences,,1,1033706.0,609.0,,1697.0,Apartment | 6817787,10,1003,Initial Sale,-,S&S Developments,-,-,,,,-,-,-,Yes
+03 Apr 2026,Title Deed,Dubai Marina,West Avenue Tower,,,1,1450000.0,720.0,,2014.0,Apartment | 3920467,18,1803,Resale,-,Select Group,-,-,,,,-,-,-,Yes
+03 Apr 2026,Title Deed,Villanova,Amaranta,Amaranta 1,,3,3000000.0,2263.0,1611.0,1326.0,Townhouse | 6486486,G+1,P1-104-01,Resale,-,Dubai Properties,-,-,,,,-,-,-,-
+03 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Flow Residences,,1,2264762.0,1080.0,,2097.0,Apartment | 1010485,3,306,Initial Sale,-,Main Realty,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Dubai Water Canal,One Casa,,,5,55000000.0,10482.0,,5247.0,Apartment | 3430865,9,902,Initial Sale,-,AHS Properties,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Majan,Dusit Rijas,,,Studio,509096.0,261.0,,1951.0,Apartment | 6457903,1,107,Initial Sale,-,Rijas Aces Property Development,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower A,2,4503828.0,1918.0,,2348.0,Apartment | 1010151,G,A-G12,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Dubai Residence Complex,09 Life Residences,,,Studio,784666.0,427.0,,1838.0,Apartment | 6488541,8,801,Initial Sale,-,Deniz Real Estate Development,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Dubai South,Azizi Venice,Azizi Venice Building 7,Azizi Venice Building 7A,2,2069100.0,1101.0,,1879.0,Apartment | 5211352,10,1045,Initial Sale,-,Azizi,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Azizi Milan,Azizi Milan 28,,,Studio,572300.0,346.0,,1654.0,Apartment | 6466966,20,2009,Initial Sale,-,Azizi,-,-,,,,-,-,-,Yes
+03 Apr 2026,Oqood,Dubai Residence Complex,09 Life Residences,,,2,1350332.0,1018.0,,1326.0,Apartment | 6488541,3,309,Initial Sale,-,Deniz Real Estate Development,-,-,,,,-,-,-,Yes
+03 Apr 2026,Title Deed,DAMAC Lagoons,Marbella,,,4,2250000.0,2286.0,1550.0,984.0,Townhouse | 6836915,G+1,DL-R518,Resale,-,DAMAC Properties,-,-,,,,LTH-4F-M,-,-,-
+03 Apr 2026,Title Deed,DAMAC Lagoons,Malta,Malta 1,,4,2612500.0,2273.0,1550.0,1149.0,Townhouse,G+1,DL-Q255,Resale,-,DAMAC Properties,-,-,,,,LTH-4D-M,-,-,-
+03 Apr 2026,Title Deed,Palm Jebel Ali,Palm Jebel Ali Fronds,Palm Jebel Ali - Frond E,,7,51862000.0,12010.0,20885.0,4318.0,Villa | 5012292,G+2,136,Initial Sale,-,Nakheel,-,-,,,,The Beach and Coral Collection,-,-,-
+03 Apr 2026,Title Deed,Palm Jebel Ali,Palm Jebel Ali Fronds,Palm Jebel Ali - Frond D,,5,30889000.0,8335.0,7578.0,3706.0,Villa | 5012762,G+2,132B,Initial Sale,-,Nakheel,-,-,,,,The Beach and Coral Collection,-,-,-
+03 Apr 2026,Title Deed,Palm Jebel Ali,Palm Jebel Ali Fronds,Palm Jebel Ali - Frond D,,5,30159000.0,8335.0,7577.0,3618.0,Villa | 5012049,G+2,120,Initial Sale,-,Nakheel,-,-,,,,The Beach and Coral Collection,-,-,-
+03 Apr 2026,Title Deed,Palm Jebel Ali,Palm Jebel Ali Fronds,Palm Jebel Ali - Frond E,,6,46949000.0,11701.0,17607.0,4012.0,Villa | 5012237,G+2,125,Initial Sale,-,Nakheel,-,-,,,,The Beach and Coral Collection,-,-,-
+03 Apr 2026,Title Deed,Palm Jebel Ali,Palm Jebel Ali Fronds,Palm Jebel Ali - Frond D,,6,30848000.0,8289.0,7577.0,3722.0,Villa | 5012766,G+2,126B,Initial Sale,-,Nakheel,-,-,,,,The Beach and Coral Collection,-,-,-
+03 Apr 2026,Title Deed,Palm Jebel Ali,Palm Jebel Ali Fronds,Palm Jebel Ali - Frond D,,7,50305000.0,12010.0,19108.0,4189.0,Villa | 5012006,G+2,139,Initial Sale,-,Nakheel,-,-,,,,The Beach and Coral Collection,-,-,-
+03 Apr 2026,Title Deed,Palm Jebel Ali,Palm Jebel Ali Fronds,Palm Jebel Ali - Frond D,,6,30865000.0,8289.0,7379.0,3724.0,Villa | 5012765,G+2,127B,Initial Sale,-,Nakheel,-,-,,,,The Beach and Coral Collection,-,-,-
+03 Apr 2026,Title Deed,Palm Jebel Ali,Palm Jebel Ali Fronds,Palm Jebel Ali - Frond D,,7,49353000.0,11519.0,20003.0,4284.0,Villa | 5011998,G+2,143,Initial Sale,-,Nakheel,-,-,,,,The Beach and Coral Collection,-,-,-
+06 Apr 2026,Oqood,Dubai Sports City,MAG 777,,,Studio,1038600.0,742.0,,1400.0,Apartment | 6820142,14,1411,Initial Sale,-,MAG Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Mina Rashid Yachts and Marina,Sera 1,Sera 1 Building A,,1,2118888.0,757.0,,2799.0,Apartment | 3210490,3,A309,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,Sierra by Iman,,,2,2001000.0,1170.0,,1710.0,Apartment | 6740195,23,2302,Initial Sale,-,Iman Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Waada by Bahria Town,Altura,Altura 1,Studio,495000.0,401.0,,1234.0,Apartment | 5211365,5,506,Initial Sale,-,BT Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Teal,,1,1511555.0,883.0,,1712.0,Apartment | 6485848,22,T2- 2204,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,Verde by Vision,,,Studio,710370.0,438.0,,1622.0,Apartment | 6821375,16,1608,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Business Bay,Binghatti Aquarise,Binghatti Aquarise Tower A,,1,1977999.0,789.0,,2507.0,Apartment | 3460284,11,A1111,Initial Sale,NEIGHBOR PLOT + SPORT FIELD,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Le Blanc by Imtiaz,,,Studio,768273.0,440.0,,1746.0,Apartment | 6488591,8,809,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Teal,,2,2436455.0,1461.0,,1668.0,Apartment | 6485848,21,T2- 2102,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Maui,,,4,2903000.0,2210.0,1550.0,1314.0,Townhouse | 92110157,G+1,B141X05,Initial Sale,-,DAMAC Properties,-,-,,,,DSTH-M1,-,-,-
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,2,2336210.0,1113.0,,2099.0,Apartment | 5211040,11,1112,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Heights,Jumeirah Heights E,,,2,4000000.0,2129.0,,1879.0,Apartment | 3934254,G,EG07,Resale,-,Nakheel,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,1,1250000.0,538.0,,2323.0,Apartment | 6817800,20,A2008,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Le Blanc by Imtiaz,,,Studio,691210.0,422.0,,1638.0,Apartment | 6488591,6,604,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Maritime City,Breez by Danube,,,1,2462830.0,656.0,,3754.0,Apartment | 3210277,9,911,Initial Sale,Panoramic Sea View,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,MAG 777,,,Studio,703120.0,456.0,,1542.0,Apartment | 6820142,16,1605,Initial Sale,-,MAG Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1602190.0,745.0,,2151.0,Apartment | 5211040,11,1111,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Teal,,1,1449731.0,883.0,,1642.0,Apartment | 6485848,13,T2- 1303,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,The Valley,Talia,,,4,3200000.0,2188.0,2772.0,1463.0,Townhouse | 9150367,G+1,TV Talia-V-319,Resale,-,Emaar,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Al Jaddaf,Binghatti Cullinan,,,1,1564999.0,699.0,,2239.0,Apartment | 3261512,7,717,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Hills Estate,Vida Residences Hillside,Vida Residences Hillside Tower A,,2,3263888.0,1404.0,,2325.0,Apartment | 63111911,1,106,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,The Valley,Nara Townhouses,,,3,2999995.0,2062.0,1873.0,1455.0,Townhouse | 9150243,G+1,142,Resale,-,Emaar,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1595330.0,741.0,,2153.0,Apartment | 5211040,11,1110,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Le Blanc by Imtiaz,,,Studio,707681.0,422.0,,1677.0,Apartment | 6488591,9,904,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,Binghatti Sky Terraces,,,1,1359999.0,749.0,,1816.0,Apartment | 6740341,11,A-1107,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Village Circle,JVC District 10,Le Grand Chateau,Le Grand Chateau A,1,805000.0,875.0,,920.0,Apartment | 6816203,2,C202,Resale,-,,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Majan,Aras Heights,,,1,1100000.0,988.0,,1113.0,Apartment | 6457847,7,707,Resale,-,Aras Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Bahamas,Bahamas 2,,5,3930000.0,3181.0,2937.0,1235.0,Townhouse | 92110077,G+2,G021X10,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,Studio,838080.0,385.0,,2177.0,Apartment | 6817800,5,A513,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower B,Studio,981000.0,430.0,,2281.0,Apartment | 6817800,19,B1907,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach Ultimate Luxury,Maybach Ultimate Luxury Tower A,,1,2342000.0,617.0,,3796.0,Apartment | 6184081,12,1201,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Teal,,2,2639305.0,1448.0,,1823.0,Apartment | 6485848,8,T2- 807,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Business Bay,The Executive Towers,Executive Towers E,,3,2912007.0,1847.0,,1577.0,Apartment | 3460391,19,1902,Resale,-,Dubai Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,International City,CBD,HDS Sunstar 1,,1,750000.0,843.0,,890.0,Apartment | 6212004,8,805,Resale,-,Mars Estates Limited,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1595330.0,741.0,,2153.0,Apartment | 5211040,11,1109,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Majan,Binghatti Vintage,,,2,1560999.0,1243.0,,1256.0,Apartment | 6458113,23,2323,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Bermuda,,,4,2903000.0,2210.0,1550.0,1314.0,Townhouse | 92110567,G+1,E007X06,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Production City,Golf Terrace Residences,,,Studio,794000.0,494.0,,1607.0,Apartment | 6850754,3,307,Initial Sale,-,Asak Real Estate Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Neon,,3,3620850.0,2067.0,,1752.0,Apartment | 64810337,19,T1- 1908,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,15 Cascade,,,1,1628598.0,860.0,,1894.0,Apartment | 6740199,9,905,Initial Sale,-,Iman Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Arjan,Divine Living,,,2,1600000.0,1301.0,,1230.0,Apartment | 6731309,3,315,Resale,-,Takmeel Real Estate Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,Aspirz Tower,,,1,1317690.0,703.0,,1874.0,Apartment | 6824303,31,3103,Initial Sale,Cricket Stadium View and MBZ Road (E311) View,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Science Park (DuBiotech),Binghatti Hills,Binghatti Hills Building 2,,2,3117646.0,1679.0,,1857.0,Apartment | 6723163,33,3309,Initial Sale,CORNER-UMM SUQEIM ROAD + BUILDING AMENITIES + ARJAN COMMUNITY,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Maritime City,Breez by Danube,,,Studio,1474900.0,394.0,,3743.0,Apartment | 3210277,42,4218,Initial Sale,Sea,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Azizi Venice,Azizi Venice Building 15,Azizi Venice Building 15B,Studio,633000.0,383.0,,1653.0,Apartment | 5211362,8,819,Initial Sale,-,Azizi,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach Ultimate Luxury,Maybach Ultimate Luxury Tower B,,Studio,1379000.0,401.0,,3439.0,Apartment | 6184081,12,1224,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Arjan,Marquis One,,,1,1481300.0,904.0,,1639.0,Apartment | 6731217,17,1717,Initial Sale,-,Marquis Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Investments Park,Dubai Investments Park 2,Ritaj Apartments,Ritaj Block A,Studio,410000.0,492.0,,833.0,Apartment | 5970592,G,G53,Resale,Community,Dubai Investments Real Estate,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Neon,,1,1828302.0,1000.0,,1828.0,Apartment | 64810337,19,T1- 1901,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,1,1282820.0,553.0,,2320.0,Apartment | 6817800,40,A4008,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 4,Binghatti Luxuria,,1,1329999.0,716.0,,1858.0,Apartment | 6849716,2,214,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Creek Harbour,Creek Bay,Creek Bay Tower B,,1,2142888.0,764.0,,2805.0,Apartment | 4150199,25,2504,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Silicon Oasis,Cedre Villas,Cluster Q,,4,5000000.0,3767.0,3834.0,1327.0,Villa | 6263544,G+1,Q08,Resale,-,Dubai Silicon Oasis Authority,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Motor City,Sierra by Iman,,,Studio,926682.0,417.0,,2222.0,Apartment | 6740195,2,215,Initial Sale,-,Iman Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Neon,,1,1724979.0,1000.0,,1725.0,Apartment | 64810337,8,T1- 801,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Silicon Oasis,Arabian Gate,,,Studio,530000.0,464.0,,1142.0,Apartment | 6262608,12,1204,Resale,-,Time Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 16,Binghatti Ruby,,2,2362499.0,1321.0,,1788.0,Apartment | 6817670,11,1134,Initial Sale,NEIGHBOR PLOT,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Business Bay,Binghatti Aquarise,Binghatti Aquarise Tower C,,1,2333999.0,907.0,,2573.0,Apartment | 3460284,8,C838,Initial Sale,ARTIFICIAL BEACH,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1639430.0,760.0,,2157.0,Apartment | 5211040,11,1107,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Production City,Lakeside Residence,Lakeside Tower B,,Studio,420000.0,365.0,,1151.0,Apartment | 6854304,13,1315,Resale,"Community,Lake,sport court",DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,Binghatti Sky Terraces,,,1,1244999.0,712.0,,1749.0,Apartment | 6740341,22,B-2206,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai South,Dubai South Residential District,The Pulse,The Pulse Beachfront | The Pulse Beachfront 3,5,6200000.0,4199.0,5228.0,1477.0,Townhouse,G+2,99,Resale,-,Dubai South,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Maritime City,Breez by Danube,,,1,2817850.0,804.0,,3505.0,Apartment | 3210277,14,1414,Initial Sale,Panoramic Sea View,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Expo Valley,Expo Valley Views | Mahra,2,2620000.0,1360.0,,1926.0,Apartment | 5210986,5,501,Initial Sale,-,Expo Dubai Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Neon,,1,1329160.0,916.0,,1451.0,Apartment | 64810337,1,T1- 103,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Residence Complex,Skycourts Towers,Skycourts Tower D,,1,600000.0,842.0,,713.0,Apartment | 6489265,16,1617,Resale,-,National Bonds Corporation PJSC,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Expo Valley,Expo Valley Views | Mahra,1,1692000.0,890.0,,1901.0,Apartment | 5210986,5,503,Initial Sale,-,Expo Dubai Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 16,Binghatti Ruby,,2,2337499.0,1321.0,,1769.0,Apartment | 6817670,5,534,Initial Sale,NEIGHBOR PLOT,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,Verde by Vision,,,1,1252700.0,822.0,,1524.0,Apartment | 6821375,16,1610,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,2,2346010.0,1119.0,,2097.0,Apartment | 5211040,11,1106,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,15 Cascade,,,1,1555107.0,802.0,,1939.0,Apartment | 6740199,8,814,Initial Sale,-,Iman Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Expo Valley,Expo Valley Views | Mahra,1,1826000.0,890.0,,2052.0,Apartment | 5210986,5,506,Initial Sale,-,Expo Dubai Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Business Bay,Binghatti Aquarise,Binghatti Aquarise Tower A,,1,2322999.0,789.0,,2944.0,Apartment | 3460284,22,A2203,Initial Sale,ARTIFICIAL BEACH +AL KHAIL ROAD,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Silicon Oasis,Tria Tower,,,Studio,704000.0,436.0,,1615.0,Apartment | 6261799,16,1602,Resale,-,Deyaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Al Jaddaf,Binghatti Cullinan,,,1,1453999.0,668.0,,2177.0,Apartment | 3261512,1,106,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,The Heights Country Club and Wellness,Salva,,,3,6998888.0,3340.0,6403.0,2095.0,Villa | 92515918,G+1,420,Initial Sale,-,Emaar,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Residence Complex,Weybridge Gardens 4,,,Studio,707462.0,501.0,,1412.0,Apartment | 6488565,7,704,Initial Sale,-,LEOS Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Silicon Oasis,Arabian Gate,,,Studio,456291.0,515.0,,886.0,Apartment | 6262608,3,308,Resale,-,Time Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Expo Valley,Expo Valley Views | Mahra,2,2717000.0,1358.0,,2001.0,Apartment | 5210986,5,507,Initial Sale,-,Expo Dubai Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 16,Binghatti Ruby,,2,2499999.0,1438.0,,1739.0,Apartment | 6817670,9,906,Initial Sale,Amenity,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Foundry,,1,1435393.0,850.0,,1689.0,Apartment | 6489945,2,B1- 212,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,2,2464590.0,1119.0,,2202.0,Apartment | 5211040,11,1105,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Media City,Dubai Jewel Tower,,,3,3688270.0,2260.0,,1632.0,Apartment | 3820772,17,1701,Resale,"Community,Sheikh Zayed Road",Sharaf Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,Binghatti Sky Terraces,,,1,1314999.0,718.0,,1831.0,Apartment | 6740341,11,A-1131,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Creek Harbour,Island Park,Island Park Tower 1,,2,2600000.0,1088.0,,2390.0,Apartment | 4154948,2,212,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Creek Harbour,Palace Residences - North,,,1,1780000.0,644.0,,2764.0,Apartment | 4154946,4,410,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Expo Valley,Expo Valley Views | Mahra,3,3840000.0,1882.0,,2040.0,Apartment | 5210986,8,808,Initial Sale,-,Expo Dubai Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Majan,Binghatti Vintage,,,Studio,702999.0,372.0,,1890.0,Apartment | 6458113,23,2315,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Golf Estates,Terra Golf Collection,,,6,17910000.0,6921.0,4090.0,2588.0,Townhouse | 6854998,G+3,JGE-JLL-A-V037,Resale,-,Taraf,-,-,,,,Twin Villas,-,-,-
+06 Apr 2026,Title Deed,Dubai Creek Harbour,Creek Beach,Breeze,Breeze Building 3,2,2850000.0,1020.0,,2794.0,Apartment | 4154766,9,906,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Downtown Jebel Ali,Azizi Lina,,,Studio,577150.0,320.0,,1804.0,Apartment,8,801,Initial Sale,-,Azizi,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Al Jaddaf,Binghatti Cullinan,,,1,1471999.0,733.0,,2008.0,Apartment | 3261512,12,1243,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Production City,Park Five,Neem at Park Five,,2,1442515.0,1147.0,,1258.0,Apartment | 6854439,2,209,Initial Sale,-,Deyaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach 6,Maybach 6 Tower B,,Studio,1383000.0,395.0,,3501.0,Apartment | 6184080,14,1407,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,2,2448910.0,1111.0,,2204.0,Apartment | 5211040,11,1104,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Cyan,,1,1771944.0,1000.0,,1772.0,Apartment | 64810337,23,T2- 2306,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Downtown Jebel Ali,Eleve By Deyaar,,,1,1214242.0,781.0,,1555.0,Apartment | 5180212,29,2913,Initial Sale,"Pool, Road, Port",Deyaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Business Bay,DWTN Residences,,,1,2243172.0,903.0,,2484.0,Apartment | 3466891,5,508,Initial Sale,-,Deyaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,2,2470470.0,1120.0,,2206.0,Apartment | 5211040,11,1103,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Cyan,,1,1510859.0,903.0,,1673.0,Apartment | 64810337,23,T2- 2304,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Arjan,Marquis One,,,1,1376000.0,886.0,,1553.0,Apartment | 6731217,17,1715,Initial Sale,-,Marquis Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Arjan,Prime Gardens,,,Studio,685000.0,412.0,,1663.0,Apartment | 6731256,5,513,Resale,-,Prescott Real Estate Development L.L.C,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,2,2447930.0,1111.0,,2203.0,Apartment | 5211040,11,1102,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 11,Binghatti Etherea,,1,1235999.0,579.0,,2135.0,Apartment | 6816395,15,1501,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Business Bay,DWTN Residences,,,1,2356370.0,896.0,,2630.0,Apartment | 3466891,22,2211,Initial Sale,Community,Deyaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach Ultimate Luxury,Maybach Ultimate Luxury Tower B,,1,2360000.0,617.0,,3825.0,Apartment | 6184081,16,1632,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Town Square,The Hamilton,,,1,975000.0,712.0,,1369.0,Apartment | 9229114,6,614,Resale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,Binghatti Sky Terraces,,,2,2170999.0,1269.0,,1711.0,Apartment | 6740341,23,B-2310,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Cyan,,1,1754400.0,1000.0,,1754.0,Apartment | 64810337,13,T2- 1301,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Downtown Jebel Ali,Eleve By Deyaar,,,2,1517805.0,1071.0,,1417.0,Apartment | 5180212,30,3004,Initial Sale,Community,Deyaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Business Bay,Binghatti Aquarise,Binghatti Aquarise Tower C,,1,2296999.0,907.0,,2533.0,Apartment | 3460284,1,C135,Initial Sale,ARTIFICIAL BEACH,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Town Square,Odessa,,,3,2427888.0,1545.0,,1571.0,Apartment | 92225762,13,1301,Initial Sale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,Verde by Vision,,,2,1766700.0,1254.0,,1409.0,Apartment | 6821375,16,1614,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Athlon By Aldar,Rise by Athlon,Cyan,,1,1403600.0,903.0,,1554.0,Apartment | 64810337,12,T2- 1203,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1630888.0,741.0,,2201.0,Apartment | 5211040,12,1209,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach 6,Maybach 6 Tower B,,1,2500000.0,617.0,,4052.0,Apartment | 6184080,22,2216,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 4,Binghatti Luxuria,,2,1841999.0,963.0,,1913.0,Apartment | 6849716,18,1819,Initial Sale,Community,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower A,1,1231000.0,739.0,,1666.0,Apartment | 68311636,8,834,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Studio City,Glitz Residence,Glitz Residence 3,Glitz Residence 3 Tower 1,2,1170000.0,1165.0,,1004.0,Apartment | 6757815,1,122,Resale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Barbados,Barbados 2,,4,2903000.0,2210.0,1550.0,1314.0,Townhouse | 92110632,G+1,B130X04,Initial Sale,-,DAMAC Properties,-,-,,,,DSTH-M1,-,-,-
+06 Apr 2026,Title Deed,Mudon,Al Ranim,Al Ranim 2,,4,4350000.0,2548.0,2728.0,1707.0,Townhouse | 6772014,G+1,230,Resale,-,Dubai Properties,-,-,,,,Type 4B1,-,-,-
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1735470.0,766.0,,2266.0,Apartment | 5211040,11,1101,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,Studio,742000.0,404.0,,1837.0,Apartment | 68311636,3,327,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana Residence 5,2,645340.0,978.0,,660.0,Apartment | 5981483,9,927,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Arjan,Marquis One,,,1,1576100.0,969.0,,1627.0,Apartment | 6731217,17,1710,Initial Sale,-,Marquis Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 12,Q Gardens Lofts 2,,1,868605.0,696.0,,1248.0,Apartment | 6816486,4,411,Initial Sale,-,AYS Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach 6,Maybach 6 Tower A,,Studio,1331000.0,361.0,,3687.0,Apartment | 6184080,6,620,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 16,Binghatti Ruby,,2,2349999.0,1321.0,,1779.0,Apartment | 6817670,7,707,Initial Sale,SECONDARY ROAD + NEIGHBOR PLOT,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,2,1816000.0,1171.0,,1551.0,Apartment | 68311636,6,604,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach 6,Maybach 6 Tower B,,1,2511000.0,617.0,,4070.0,Apartment | 6184080,23,2316,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Science Park (DuBiotech),Binghatti Hills,Binghatti Hills Building 2,,2,2929411.0,1679.0,,1745.0,Apartment | 6723163,8,809,Initial Sale,CORNER-UMM SUQEIM ROAD + BUILDING AMENITIES + ARJAN COMMUNITY,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,Studio,636000.0,332.0,,1916.0,Apartment | 68311636,3,311,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 14,Legado by Prescott,,Studio,715000.0,379.0,,1887.0,Apartment | 6817225,10,1001,Initial Sale,-,Prescott Real Estate Development L.L.C,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 2,Binghatti Flare,Binghatti Flare 02,1,1379999.0,809.0,,1706.0,Apartment | 6848902,17,1705,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,Verde by Vision,,,Studio,735900.0,437.0,,1684.0,Apartment | 6821375,16,1615,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,Studio,839040.0,385.0,,2179.0,Apartment | 6817800,35,A3511,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 16,Binghatti Ruby,,2,2362499.0,1321.0,,1788.0,Apartment | 6817670,13,1307,Initial Sale,SECONDARY ROAD + NEIGHBOR PLOT,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,1,1299000.0,784.0,,1657.0,Apartment | 68311636,6,602,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Project Maybach,,,1,2380000.0,632.0,,3766.0,Apartment | 6184089,20,2020,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach 6,Maybach 6 Tower A,,Studio,1382000.0,395.0,,3499.0,Apartment | 6184080,15,1526,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Al Wasl,Safa Gate,,,2,3549000.0,1410.0,,2517.0,Apartment | 3435303,9,903,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,1,1238690.0,553.0,,2240.0,Apartment | 6817800,34,A3408,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 16,Binghatti Ruby,,2,2499999.0,1438.0,,1739.0,Apartment | 6817670,13,1335,Initial Sale,AMENITY VIEW + NEIGHBORS PLOT,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Al Jaddaf,Binghatti Cullinan,,,1,1559999.0,699.0,,2232.0,Apartment | 3261512,3,310,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Project Maybach,,,Studio,1371000.0,389.0,,3524.0,Apartment | 6184089,10,1025,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Weybridge Gardens 4,,,1,1188409.0,754.0,,1576.0,Apartment,13,1310-X,Initial Sale,-,LEOS Developments,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Majan,The Haven II,,,1,1034510.0,783.0,,1321.0,Apartment | 6456418,12,1211,Initial Sale,-,Meraki,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach 6,Maybach 6 Tower B,,Studio,1441000.0,395.0,,3648.0,Apartment | 6184080,24,2410,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower C,Studio,777000.0,401.0,,1938.0,Apartment,8,816,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,Studio,838080.0,382.0,,2194.0,Apartment | 6817800,2,A214,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Maritime City,Chelsea Residences 2 by Damac,Chelsea Residences 2 Tower C,,1,2661000.0,776.0,,3429.0,Apartment | 3210140,32,3207,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach 6,Maybach 6 Tower B,,3,5172000.0,1325.0,,3903.0,Apartment | 6184080,33,3314,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Business Bay,One By Binghatti,,,1,3324999.0,1009.0,,3295.0,Apartment | 3460507,34,3406,Initial Sale,SPORTS FIELD,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower B,Studio,946720.0,427.0,,2217.0,Apartment | 6817800,19,B1906,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,Studio,641000.0,338.0,,1896.0,Apartment | 68311636,13,1327,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Project Maybach,,,Studio,1383000.0,389.0,,3555.0,Apartment | 6184089,12,1216,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Riverside,Riverside Views,Riverside Views Marine 4,,1,1285250.0,995.0,,1292.0,Apartment | 5976672,2,223,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Business Bay,One By Binghatti,,,2,4874999.0,1548.0,,3149.0,Apartment | 3460507,24,2403,Initial Sale,"Canal, Sports Field",Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Wasl Gate,Taiyo Residences,,,1,1021340.0,640.0,,1596.0,Apartment | 5919565,10,1020,Initial Sale,-,Wasl,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Riverside,Riverside Views,Riverside Views Capri 1,Riverside Views Capri 1 A,1,1550000.0,1039.0,,1492.0,Apartment | 5976680,10,1008,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Downtown Dubai,Downtown,Binghatti Skyblade,,2,4829999.0,1260.0,,3833.0,Apartment | 3450398,18,1805,Initial Sale,Burj Khalifa,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Downtown Dubai,Downtown,Baccarat Hotel and Residences,Baccarat Residence T2,4,55970851.0,9844.0,,5686.0,Apartment | 3454486,25,2501,Initial Sale,-,H&H Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Downtown Dubai,Downtown,Baccarat Hotel and Residences,Baccarat Residence T2,3,19243741.0,4662.0,,4128.0,Apartment | 3454486,3,302,Initial Sale,-,H&H Development,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Business Bay,Binghatti Aquarise,Binghatti Aquarise Tower B,,1,2369999.0,958.0,,2474.0,Apartment | 3460284,7,B730,Initial Sale,MAIN ROAD,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach Ultimate Luxury,Maybach Ultimate Luxury Tower B,,Studio,1353000.0,401.0,,3374.0,Apartment | 6184081,2,208,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Downtown Dubai,Downtown,Baccarat Hotel and Residences,Baccarat Residence T2,3,19878290.0,4409.0,,4509.0,Apartment | 3454486,6,602,Initial Sale,-,H&H Development,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Downtown Dubai,Downtown,Baccarat Hotel and Residences,Baccarat Residence T2,3,19458191.0,4575.0,,4253.0,Apartment | 3454486,4,402,Initial Sale,-,H&H Development,-,-,,,,-,-,-,No
+06 Apr 2026,Title Deed,International City,France Cluster,Block P,Building P-17,1,475000.0,731.0,,650.0,Apartment | 6211447,3,308,Resale,-,Nakheel,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,Studio,641000.0,331.0,,1937.0,Apartment | 68311636,7,714,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Samana Ibiza,,,2,789000.0,1402.0,,563.0,Apartment | 6488715,19,1906,Initial Sale,-,Samana Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,1,1365000.0,576.0,,2370.0,Apartment | 6817800,19,A1917,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Empire Gardens,,,Studio,789777.0,444.0,,1779.0,Apartment | 6489020,7,711,Initial Sale,-,Empire Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach Ultimate Luxury,Maybach Ultimate Luxury Tower A,,Studio,1379000.0,341.0,,4044.0,Apartment | 6184081,14,1419,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach 6,Maybach 6 Tower B,,Studio,1380000.0,341.0,,4047.0,Apartment | 6184080,15,1514,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Weybridge Gardens 4,,,1,1185955.0,1082.0,,1096.0,Apartment | 6488565,7,714,Initial Sale,-,LEOS Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Sobha Hartland,Crest Grande,Crest Grande Tower C,,3,3250000.0,1618.0,,2009.0,Apartment | 3470896,18,C1804,Resale,-,Sobha Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower B,Studio,940819.0,430.0,,2188.0,Apartment | 6817800,9,B907,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,Studio,888000.0,382.0,,2325.0,Apartment | 6817800,36,A3612,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Silicon Oasis,Tria Tower,,,1,1060000.0,770.0,,1377.0,Apartment | 6261799,15,1521,Resale,-,Deyaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Al Jaddaf,Binghatti Cullinan,,,1,1455999.0,727.0,,2003.0,Apartment | 3261512,9,941,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 4,Binghatti Luxuria,,2,1825999.0,963.0,,1896.0,Apartment | 6849716,12,1220,Initial Sale,Community,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Palm Jebel Ali,Palm Jebel Ali Fronds,Palm Jebel Ali - Frond E,,6,31230000.0,8289.0,7373.0,3768.0,Villa | 5012225,G+2,121A,Initial Sale,-,Nakheel,-,-,,,,The Beach and Coral Collection,-,-,-
+06 Apr 2026,Oqood,Al Jaddaf,Binghatti Cullinan,,,1,1449999.0,726.0,,1997.0,Apartment | 3261512,6,609,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Al Jaddaf,Binghatti Cullinan,,,1,1564999.0,689.0,,2271.0,Apartment | 3261512,6,612,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,Studio,835050.0,381.0,,2192.0,Apartment | 6817800,29,A2912,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Science Park (DuBiotech),Binghatti Hillviews,,,1,1282449.0,904.0,,1419.0,Apartment | 6723167,6,B-617,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 13,Binghatti Circle,,1,1299999.0,762.0,,1706.0,Apartment | 6817137,60,6002,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,Studio,925000.0,402.0,,2301.0,Apartment | 6817800,41,A4119,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,Binghatti Sky Terraces,,,Studio,774999.0,361.0,,2147.0,Apartment | 6740341,1,B-114,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Mohammed Bin Rashid City,District 11,The Fields,Senses at the Field,3,3700000.0,2227.0,2015.0,1661.0,Townhouse | 6456087,G+1,C45-4,Resale,-,G&Co,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Binghatti City,Maybach 6,Maybach 6 Tower B,,Studio,1358000.0,375.0,,3621.0,Apartment | 6184080,6,621,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Palm Jebel Ali,Palm Jebel Ali Fronds,Palm Jebel Ali - Frond D,,6,31260000.0,8320.0,7398.0,3757.0,Villa | 5012014,G+2,133A,Initial Sale,-,Nakheel,-,-,,,,The Beach and Coral Collection,-,-,-
+06 Apr 2026,Title Deed,The Heights Country Club and Wellness,Salva,,,5,11366888.0,5884.0,6574.0,1932.0,Villa | 92515685,G+2,358,Initial Sale,-,Emaar,-,-,,,,-,-,-,-
+06 Apr 2026,Title Deed,The Oasis,Mareva,,,4,13937888.0,7257.0,8685.0,1921.0,Villa | 6863141,G+2,203,Initial Sale,-,Emaar,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Hills Estate,Parkwood,Parkwood Tower A,,1,2008888.0,830.0,,2420.0,Apartment | 63111912,20,2003,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Hills Estate,Greencrest,Greencrest Block A,,2,3428888.0,1439.0,,2383.0,Apartment | 63111166,20,2006,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+05 Apr 2026,Title Deed,Naia Island,-,,,-,129549246.0,,22929.0,,Villa | 3560794,G+1,1361,Initial Sale,-,,-,-,,,,-,-,-,-
+04 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Blue Marina Residence,Blue Marina Residence Building A,1,2100000.0,672.0,,3125.0,Apartment | 1010390,3,A-303,Initial Sale,-,Shakirov Developments,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 2,Interstellar Tower,,1,1200000.0,648.0,,1852.0,Apartment | 6848909,15,1502,Initial Sale,-,Mr. Eight Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 2,Interstellar Tower,,1,1354000.0,853.0,,1587.0,Apartment | 6848909,8,805,Initial Sale,Golf Course : Sunset,Mr. Eight Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 2,Interstellar Tower,,1,1185000.0,695.0,,1705.0,Apartment | 6848909,7,708,Initial Sale,-,Mr. Eight Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 2,Interstellar Tower,,1,1248000.0,695.0,,1796.0,Apartment | 6848909,19,1908,Initial Sale,-,Mr. Eight Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 2,Interstellar Tower,,2,1699000.0,983.0,,1728.0,Apartment | 6848909,17,1704,Initial Sale,Golf Course,Mr. Eight Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 2,Interstellar Tower,,2,1740000.0,1038.0,,1676.0,Apartment | 6848909,8,810,Initial Sale,Marina,Mr. Eight Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Title Deed,DAMAC Hills 2,Mulberry,,,-,940000.0,,1882.0,499.0,Land,-,DH2-XL1276B,Resale,-,DAMAC Properties,-,General,,,,-,-,-,-
+04 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower B,Studio,952560.0,430.0,,2215.0,Apartment | 6817800,15,B1507,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Meydan,Sukoon by Nuri,,,1,1529000.0,800.0,,1911.0,Apartment | 6181293,2,204,Initial Sale,-,Nuri Living,-,-,,,,-,-,-,Yes
+04 Apr 2026,Title Deed,Dubai Hills Estate,Golf Grand,,,2,2250000.0,1075.0,,2093.0,Apartment | 6314044,4,404,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 2,Santorini Residences,,1,816888.0,654.0,,1249.0,Apartment | 6843470,11,1104,Initial Sale,-,Loutraki Real Estate,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai South,Dubai South Residential District,The Collective,,1,1000000.0,852.0,,1174.0,Apartment | 5213569,3,310,Initial Sale,-,Bold Developer,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Meydan,Sukoon by Nuri,,,1,1515000.0,798.0,,1898.0,Apartment | 6181293,4,405,Initial Sale,-,Nuri Living,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Arjan,Arthouse Hills,,,1,1423851.0,831.0,,1713.0,Apartment | 6730124,4,418,Initial Sale,-,Tuscany Real Estate Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 2,Santorini Residences,,1,809166.0,654.0,,1237.0,Apartment | 6843470,5,504,Initial Sale,-,Loutraki Real Estate,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,International City,Crystal Tower,,,1,673000.0,514.0,,1309.0,Apartment | 6218573,4,413,Initial Sale,-,VHS Developments,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Maritime City,Breez by Danube,,,Studio,1299800.0,368.0,,3532.0,Apartment | 3210277,36,3624,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,International City,Crystal Tower,,,1,653208.0,545.0,,1199.0,Apartment | 6218573,4,410,Initial Sale,-,VHS Developments,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Maritime City,Breez by Danube,,,1,2628700.0,623.0,,4219.0,Apartment | 3210277,44,4411,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,Studio,863000.0,380.0,,2271.0,Apartment | 6817800,24,A2420,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,Studio,868150.0,382.0,,2273.0,Apartment | 6817800,20,A2014,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower B,Studio,991000.0,427.0,,2321.0,Apartment | 6817800,17,B1709,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Production City,Soul by Vision,,,1,874700.0,758.0,,1154.0,Apartment | 6854431,5,520,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Arjan,Arthouse Hills,,,Studio,871921.0,469.0,,1859.0,Apartment | 6730124,4,415,Initial Sale,-,Tuscany Real Estate Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Title Deed,Al Furjan,Al Furjan West,Azizi Star,,Studio,565000.0,390.0,,1449.0,Hotel Apartment | 5912306,8,813,Resale,-,Azizi,-,Hotel Apartment,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Production City,Soul by Vision,,,1,934400.0,810.0,,1154.0,Apartment | 6854431,2,204,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Al Satwa,Jumeirah Garden City,Stamn One,,Studio,1117172.0,459.0,,2434.0,Apartment | 3347629,5,505,Initial Sale,-,Stamn Development,-,-,,,,-,-,-,Yes
+04 Apr 2026,Oqood,Dubai Studio City,Beach Oasis 2,Beach Oasis 2 Tower B,,Studio,570000.0,351.0,,1624.0,Apartment | 6750296,5,503,Initial Sale,-,Azizi,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,Verde by Vision,,,1,1254800.0,782.0,,1605.0,Apartment | 6821375,15,1513,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Arjan,Prime Gardens,,,1,1200000.0,868.0,,1382.0,Apartment | 6731256,1,121,Resale,-,Prescott Real Estate Development L.L.C,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Harbour,Emaar Beachfront,Beach Mansion,Beach Mansion Tower 1,2,4300000.0,1268.0,,3391.0,Apartment | 3927076,P2,P202,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island B (Shore Island),Siora,Hado | Hado Tower B,1,3561000.0,1151.0,,3094.0,Apartment | 1011305,12,B1201,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Marquis Vista,,,Studio,785549.0,450.0,,1746.0,Apartment | 6488545,8,807,Initial Sale,-,Marquis Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,Studio,861980.0,385.0,,2239.0,Apartment | 6817800,41,A4111,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower A,2,4245828.0,1480.0,,2869.0,Apartment | 1010151,1,A-134,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Mohammed Bin Rashid City,District 11,The Willows Residences,,2,1785250.0,910.0,,1962.0,Apartment | 6456324,4,402,Initial Sale,-,SCC Vertex Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 10,Pearl House 4,,1,1395000.0,851.0,,1639.0,Apartment | 6816262,12,1204,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Production City,Midtown,Afnan,Afnan 1,1,830000.0,621.0,,1337.0,Apartment | 6854517,16,1603,Resale,-,Deyaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Business Bay,Damac Majestine,,,Studio,695000.0,479.0,,1451.0,Apartment | 3466830,7,716A,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island B (Shore Island),Siora,Hado | Hado Tower A,3,8204000.0,2457.0,,3339.0,Apartment | 1011305,15,A1505,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Business Bay,Damac Majestine,,,3,1850000.0,1420.0,,1303.0,Apartment | 3466830,6,615,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Tahiti,Tahiti 1,,4,2904000.0,2210.0,1552.0,1314.0,Townhouse | 92110990,G+1,A005X05,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 10,Pearl House 4,,Studio,823255.0,425.0,,1937.0,Apartment | 6816262,12,1208,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands I | Ellington Sands I Tower A,2,3440828.0,1221.0,,2818.0,Apartment | 1010150,5,A-515,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Dubai South Residential District,South Bay,South Bay 4,7,22850000.0,13675.0,10333.0,1671.0,Villa | 5213907,G+3,82,Initial Sale,-,Dubai South,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 10,Pearl House 4,,Studio,828817.0,428.0,,1936.0,Apartment | 6816262,12,1215,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,International City Phase 2,Chapter 01 By Newbury,,,1,750000.0,773.0,,970.0,Apartment | 6241239,3,319,Initial Sale,-,Newbury Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Peace Lagoons 2,Peace Lagoons 2 Tower A,,1,1108989.0,790.0,,1404.0,Apartment | 6489263,10,A1005,Initial Sale,-,Peace Homes Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Bahamas,Bahamas 1,,4,2825000.0,2210.0,1551.0,1278.0,Townhouse | 92111094,G+1,G143X03,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Residence Complex,Peace Lagoons 2,Peace Lagoons 2 Tower A,,Studio,731000.0,435.0,,1680.0,Apartment | 6489263,12,A1216,Initial Sale,-,Peace Homes Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Peace Lagoons,Peace Lagoons Building B,,Studio,767788.0,396.0,,1939.0,Apartment | 6489264,14,B1425,Initial Sale,-,Peace Homes Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands I | Ellington Sands I Tower A,2,3257828.0,1174.0,,2775.0,Apartment | 1010150,4,A-441,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Rukan,Rukan Lofts,,,1,1050000.0,718.0,569.0,1462.0,Townhouse | 6654297,G+1,L99,Resale,"Community,Walkway,Landscaped Garden",Reportage Real Estate,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Natuzzi Harmony Residences by Peace Homes,,1,2300000.0,903.0,,2547.0,Apartment | 1010528,4,402,Initial Sale,Community View,Peace Homes Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Mudon,Arabella,Arabella 3,,3,2900000.0,1537.0,1912.0,1887.0,Townhouse | 6774607,G+1,MU.M15.22,Resale,-,Dubai Properties,-,-,,,,3 bed townhouse Type B Mid Unit,-,-,-
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1629888.0,745.0,,2188.0,Apartment | 5211040,9,918,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,Studio,1166821.0,376.0,,3103.0,Apartment | 3930950,6,612,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 10,Pearl House 4,,1,1388110.0,807.0,,1720.0,Apartment | 6816262,10,1016,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Town Square,The Diplomat Residences,,,1,1020888.0,591.0,,1727.0,Apartment | 9229115,4,404,Resale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Tahiti,Tahiti 2,,4,2746000.0,2210.0,1550.0,1243.0,Townhouse | 92110378,G+1,A126X09,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands I | Ellington Sands I Tower A,1,2147828.0,802.0,,2678.0,Apartment | 1010150,4,A-404,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Village Triangle,JVT District 6,JVT District 6A,,2,4000000.0,2992.0,2583.0,1337.0,Townhouse | 6849867,G+1,JVT06A2TH011,Resale,-,Nakheel,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,DAMAC Hills,DAMAC District,DAMAC District Tower,DAMAC District Tower A,1,1356000.0,776.0,,1747.0,Apartment | 6768567,4,407,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah,Jumeirah 2,Aman Residences Dubai,Aman Residences T1,3,70238323.0,5943.0,,11819.0,Apartment | 3420964,8,T1-802,Initial Sale,-,H&H Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah,Jumeirah 2,Aman Residences Dubai,Aman Residences T2,4,58253516.0,8472.0,,6876.0,Apartment | 3420964,19,T2-1901,Initial Sale,-,H&H Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,Studio,1174459.0,391.0,,3004.0,Apartment | 3930950,1,104,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,DAMAC Islands 2,Bermuda,,,4,2903000.0,2210.0,1550.0,1314.0,Townhouse | 92111183,G+1,E110X02,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 13,Levanto By Oro24,,1,800000.0,665.0,,1203.0,Apartment | 6810486,2,C211,Resale,-,Oro24,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Sports City,Elite Sports Residence,Elite Sports Residence 1,,Studio,378635.0,451.0,,840.0,Apartment | 6820153,4,401,Resale,-,Triplanet International,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Sobha Hartland II,Riverside Crescent,360 Riverside Crescent,,2,2285096.0,903.0,,2531.0,Apartment | 6110676,18,1804,Resale,-,Sobha Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Arjan,Green Diamond One,Green Diamond One Building A,,2,1040000.0,834.0,,1247.0,Apartment | 6731273,3,A-310,Resale,-,Diamond Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Silicon Oasis,The Hillgate,The Hillgate Tower A,,2,2264828.0,1327.0,,1707.0,Apartment | 6261827,11,A 1110,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,Studio,617000.0,333.0,,1853.0,Apartment | 68311636,6,626,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Cove Boulevard,,,1,1354303.0,983.0,,1378.0,Apartment | 6488528,20,2018,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,2,3332756.0,1000.0,,3333.0,Apartment | 3930950,14,1411,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Dubai Sports City,Verde by Vision,,,3,2232054.0,1571.0,,1421.0,Apartment | 6821375,15,1516,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Bermuda,,,5,4944100.0,3515.0,2543.0,1407.0,Townhouse | 92110590,G+2,E077X01,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,DAMAC Riverside,Riverside Views,Riverside Views Azure 2,Riverside Views Azure 2 A,1,1207000.0,846.0,,1427.0,Apartment | 5976666,3,315,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,2,2996587.0,1001.0,,2994.0,Apartment | 3930950,5,506,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Dubai Residence Complex,Le Blanc by Imtiaz,,,Studio,799853.0,444.0,,1801.0,Apartment | 6488591,14,1417,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Tahiti,Tahiti 1,,5,5061000.0,3515.0,2596.0,1440.0,Townhouse | 92110676,G+2,A022X02,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,DAMAC Islands 2,Bahamas,Bahamas 2,,5,4039000.0,3181.0,2363.0,1270.0,Townhouse | 92110332,G+2,G003X10,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,DAMAC Islands 2,Tahiti,Tahiti 2,,5,4143000.0,3181.0,3206.0,1302.0,Townhouse | 92110033,G+2,A148X10,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Title Deed,Downtown Dubai,Downtown,The Lofts,,1,1910000.0,1032.0,,1851.0,Apartment | 3460841,L2,L225,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Arjan,Skyz By Danube,,,1,880000.0,550.0,,1600.0,Apartment | 6731215,28,2809,Resale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,Studio,1174459.0,391.0,,3004.0,Apartment | 3930950,5,505,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,DAMAC Islands 2,Barbados,Barbados 2,,4,2824000.0,2210.0,1550.0,1278.0,Townhouse | 92110453,G+1,B076X05,Initial Sale,-,DAMAC Properties,-,-,,,,DSTH-M1,-,-,-
+06 Apr 2026,Title Deed,Mudon,Mudon Views,,,2,1450000.0,965.0,,1503.0,Apartment | 6773511,5,514,Resale,-,Dubai Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Al Furjan,Al Furjan East,Gemz By Danube,,2,1450000.0,1321.0,,1098.0,Apartment | 5912326,3,308,Resale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Sobha Hartland,Creek Vistas Grande,,,2,3100000.0,1197.0,,2590.0,Apartment | 3479420,42,4202,Resale,-,Sobha Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Tahiti,Tahiti 2,,5,5118540.0,3515.0,3137.0,1456.0,Townhouse | 92110806,G+2,A040X01,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Production City,Soul by Vision,,,3,1818600.0,1729.0,,1052.0,Apartment | 6854431,3,318,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1615910.0,752.0,,2149.0,Apartment | 5211040,11,1114,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,Studio,1255766.0,373.0,,3367.0,Apartment | 3930950,13,1313,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Sobha Hartland II,Skyscape,Skyscape Altius,,3,4512833.0,1712.0,,2636.0,Apartment | 6110884,51,A5112,Initial Sale,-,Sobha Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Tahiti,Tahiti 2,,5,4943120.0,3515.0,2539.0,1406.0,Townhouse | 92110040,G+2,A050X02,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Residence Complex,Cybele By Wadan,,,1,1094893.0,719.0,,1523.0,Apartment | 6488568,4,412,Initial Sale,-,Wadan Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Town Square,Rosewell,,,1,1117888.0,610.0,,1833.0,Apartment | 92225781,12,1203,Initial Sale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Discovery Gardens,Mogul Cluster,Building 206,,Studio,520000.0,500.0,,1040.0,Apartment | 59110244,1,103,Initial Sale,-,Nakheel,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Lakes Towers,Cluster H,Concorde Tower,,1,1250000.0,954.0,,1310.0,Apartment | 3930900,11,1105,Resale,-,32 Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,Verde by Vision,,,2,1722546.0,1254.0,,1374.0,Apartment | 6821375,15,1514,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Agua Residences,Agua Residences Tower 1,1,1762000.0,728.0,,2420.0,Apartment | 1010460,3,305,Initial Sale,-,Citi Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,MAG 777,,,Studio,811220.0,502.0,,1616.0,Apartment | 6820142,3,313,Initial Sale,-,MAG Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Town Square,The Diplomat Residences,,,1,875000.0,622.0,,1407.0,Apartment | 9229115,1,115,Resale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Silicon Oasis,The Hillgate,The Hillgate Tower A,,2,1884828.0,1196.0,,1576.0,Apartment | 6261827,8,A 808,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1675690.0,742.0,,2258.0,Apartment | 5211040,11,1123,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,1,1350000.0,808.0,,1671.0,Apartment | 68311636,9,901,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1675690.0,742.0,,2258.0,Apartment | 5211040,11,1124,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Healthcare City 2,Binghatti Starlight,,,Studio,600000.0,450.0,,1333.0,Apartment | 3261719,5,515,Resale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Production City,Vista by Vision,,,Studio,648900.0,465.0,,1395.0,Apartment | 6854344,9,903,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower A,2,3445828.0,1200.0,,2872.0,Apartment | 1010151,7,A-706,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,International City Phase 2,Nest Residence,,,Studio,420132.0,334.0,,1258.0,Apartment | 6241167,4,403,Initial Sale,-,ANDI Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Al Satwa,Jumeirah Garden City,Jad 288,Jad 288 Tower 2,1,1465288.0,658.0,,2227.0,Apartment | 3342945,7,706,Initial Sale,-,JAD Global Real Estate Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai South,Dubai South Residential District,Celestia,Celestia A,Studio,530000.0,440.0,,1205.0,Apartment | 5213585,4,A446,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Bay Island,Villa Amalfi,,,3,21500000.0,4025.0,2778.0,5342.0,Townhouse | 3020114,G+3,TH 45,Resale,"Park,Sea",Meraas,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Residence Complex,Cybele By Wadan,,,2,1698899.0,1257.0,,1352.0,Apartment | 6488568,8,811,Initial Sale,-,Wadan Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1646290.0,765.0,,2152.0,Apartment | 5211040,11,1115,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island B (Shore Island),Siora,Hado | Hado Tower A,3,7712000.0,2317.0,,3328.0,Apartment | 1011305,21,A2102,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower A,2,3252828.0,1200.0,,2711.0,Apartment | 1010151,3,A-306,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Marquis Vista,,,1,1184500.0,962.0,,1231.0,Apartment | 6488545,1,104,Initial Sale,-,Marquis Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Town Square,Fiori,,,1,1134888.0,773.0,,1468.0,Apartment | 92225755,1,106,Initial Sale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Lagoon Views 13,Lagoon Views 13 Building B,1,1158000.0,730.0,,1586.0,Apartment | 68311642,3,304,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,MAG 777,,,Studio,787000.0,484.0,,1626.0,Apartment | 6820142,2,209,Initial Sale,-,MAG Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1650210.0,765.0,,2157.0,Apartment | 5211040,11,1116,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,DAMAC Lagoons,Costa Brava,Costa Brava 2,,3,2700000.0,,1550.0,,Townhouse | 6835961,G+1,DL-K472,Resale,-,DAMAC Properties,-,-,,,,LTH-3B-M,-,-,-
+06 Apr 2026,Oqood,Dubai Maritime City,Kanyon By Beyond,,,1,2394000.0,919.0,,2605.0,Apartment | 3210354,4,406,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,Studio,1283387.0,420.0,,3056.0,Apartment | 3930950,6,602,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Business Bay,Peninsula,Peninsula Four The Plaza,,1,1990000.0,832.0,,2392.0,Apartment | 3460188,13,B-1301,Resale,-,Select Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,The Villa,Hacienda,Courtyard CH6,,5,7200000.0,4296.0,7467.0,1676.0,Villa | 6488478,G+1,12,Resale,"Community,Main Road",Dubai Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Binghatti City,Project Maybach,,,Studio,1374000.0,385.0,,3569.0,Apartment | 6184089,11,1135,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower B,3,6712828.0,2250.0,,2983.0,Apartment | 1010151,6,B-601,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Arjan,Marquis One,,,Studio,743400.0,431.0,,1725.0,Apartment | 6731217,9,902,Initial Sale,-,Marquis Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Al Furjan,Al Furjan East,Pearlz by Danube,,2,1710000.0,1116.0,,1532.0,Apartment | 5912995,9,920,Resale,"Community,Road",Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Cove Edition 6,,,Studio,761118.0,410.0,,1856.0,Apartment | 6489259,7,723,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1601210.0,744.0,,2152.0,Apartment | 5211040,11,1117,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Maritime City,Kanyon By Beyond,,,1,2633000.0,919.0,,2865.0,Apartment | 3210354,3,301,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,MAG 777,,,Studio,831040.0,497.0,,1672.0,Apartment | 6820142,2,202,Initial Sale,-,MAG Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Motor City,Rabdan Building,,,1,779670.0,779.0,,1001.0,Apartment | 6740198,2,206,Initial Sale,-,Al Fahim,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1601210.0,744.0,,2152.0,Apartment | 5211040,11,1119,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Barbados,Barbados 2,,4,3094000.0,2210.0,1662.0,1400.0,Townhouse | 92110471,G+1,B127X04,Initial Sale,-,DAMAC Properties,-,-,,,,DSTH-M1,-,-,-
+06 Apr 2026,Oqood,Dubai Studio City,Laya Courtyard,Laya Courtyard Building B,,Studio,699898.0,437.0,,1602.0,Apartment | 6750295,1,B-126,Initial Sale,-,Akshara Global Real Estate Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,1,1220000.0,739.0,,1651.0,Apartment | 68311636,5,534,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Mudon,Al Ranim,Al Ranim 4,,3,3333000.0,2217.0,1848.0,1503.0,Townhouse | 6771807,G+1,673,Resale,-,Dubai Properties,-,-,,,,Type 3B1,-,-,-
+06 Apr 2026,Oqood,Al Jaddaf,J188,,,1,1223188.0,766.0,,1597.0,Apartment | 3261510,7,703,Initial Sale,-,JAD Global Real Estate Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,Verde by Vision,,,1,1099000.0,767.0,,1433.0,Apartment | 6821375,6,602,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Al Satwa,Jumeirah Garden City,Hyde Walk by Imtiaz,,Studio,1190000.0,380.0,,3132.0,Apartment | 3347641,1,103,Resale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Cove Grand,,,1,1068107.0,730.0,,1463.0,Apartment | 6488556,16,1601,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Mohammed Bin Rashid City,Azizi Riviera,Azizi Riviera 10,,Studio,645000.0,348.0,,1853.0,Apartment | 3475005,3,302,Resale,-,Azizi,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Motor City,Rabdan Building,,,1,931707.0,771.0,,1208.0,Apartment | 6740198,17,1708,Initial Sale,-,Al Fahim,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Palm Jumeirah,Oceana,Oceana Adriatic,,1,1500000.0,1424.0,,1053.0,Apartment,GF,G06,Resale,-,Seven Tides,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Sobha Hartland,Creek Vistas,Creek Vistas Tower B,,2,1620000.0,788.0,,2056.0,Apartment | 3474774,17,B1713,Resale,"Community,Sports Courts ,Distant Creek,Courtyard ,Construction",Sobha Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Cove Edition 6,,,Studio,717910.0,414.0,,1734.0,Apartment | 6489259,7,715,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower B,3,6492828.0,2221.0,,2923.0,Apartment | 1010151,5,B-501,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,DAMAC Hills 2,Victoria,,,3,1290000.0,1670.0,1208.0,772.0,Townhouse | 91414564,G+1,XM1646B,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Mina Rashid Yachts and Marina,Avonlea,Avonlea Building 2,,1,1645888.0,822.0,,2002.0,Apartment | 3210347,2,210,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Hills,DAMAC District,DAMAC District Tower,DAMAC District Tower A,1,1453000.0,791.0,,1837.0,Apartment | 6768567,25,2507,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,2,2364630.0,1127.0,,2098.0,Apartment | 5211040,11,1120,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Hills Estate,Mulberry at Park Heights,Mulberry B1,,2,3700000.0,1306.0,,2833.0,Apartment | 6316284,3,306,Resale,"Community,Swimming Pool",Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,DMCC Enterprise Zone,W Residences JLT,,2,4684000.0,1457.0,,3215.0,Apartment | 3934247,13,1303,Initial Sale,-,Signature Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Al Jaddaf,J188,,,1,1129188.0,685.0,,1648.0,Apartment | 3261510,5,507,Initial Sale,-,JAD Global Real Estate Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Mohammed Bin Rashid City,Azizi Riviera,Azizi Riviera 58,,1,1780240.0,787.0,,2262.0,Apartment | 3475081,6,605,Initial Sale,Road,Azizi,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Arjan,Arthouse Hills,,,2,2018888.0,1135.0,,1779.0,Apartment | 6730124,5,512,Initial Sale,-,Tuscany Real Estate Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Mohammed Bin Rashid City,District One,Naya at District One,Naya 3,2,3964800.0,2171.0,,1826.0,Apartment | 3470927,G,G02,Resale,-,Meydan Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,Studio,763000.0,400.0,,1908.0,Apartment | 68311636,2,215,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Al Furjan,Al Furjan East,PG One,,1,1150000.0,797.0,,1443.0,Apartment | 5912259,9,904,Resale,-,Pure Gold Real Estate Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Beach Residence,Sadaf,Sadaf 6,,3,2750000.0,1888.0,,1457.0,Apartment | 3920550,19,1912,Resale,-,Dubai Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Wasl Gate,Gardenia Townhomes,Gardenia Townhomes I,,4,4900000.0,3038.0,3326.0,1613.0,Townhouse | 5912760,G+1,TH-148,Resale,-,Wasl,-,-,,,,-,-,-,-
+06 Apr 2026,Title Deed,Dubai Studio City,Glitz Residence,Glitz Residence 3,Glitz Residence 3 Tower 1,2,1190000.0,1241.0,,959.0,Apartment | 6757815,3,309,Resale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,2,2464590.0,1119.0,,2202.0,Apartment | 5211040,11,1121,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,MAG 777,,,1,1470720.0,903.0,,1629.0,Apartment | 6820142,16,1612,Initial Sale,-,MAG Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1603170.0,745.0,,2152.0,Apartment | 5211040,11,1118,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Sports City,Amal Tower,,,2,1700000.0,1433.0,,1186.0,Apartment | 6820146,21,2103,Resale,-,Consolidated Urban Real Estate Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Cybele By Wadan,,,Studio,692745.0,428.0,,1619.0,Apartment | 6488568,5,510,Initial Sale,-,Wadan Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Azizi Venice,Azizi Venice Building 11,,1,1274000.0,729.0,,1748.0,Apartment | 5211356,2,211,Initial Sale,-,Azizi,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Silicon Oasis,Cedre Villas,Cluster L,,3,4999000.0,3856.0,4105.0,1296.0,Villa | 6263387,G+1,L 006,Resale,-,Dubai Silicon Oasis Authority,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands I | Ellington Sands I Tower A,2,3064828.0,1175.0,,2608.0,Apartment | 1010150,4,A-410,Resale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower A,Studio,781000.0,336.0,,2324.0,Apartment,6,616,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,DAMAC Hills 2,Paloverde,,,-,2700000.0,,3466.0,,Townhouse,G+1,DH2-XY009B,Resale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,Studio,673000.0,350.0,,1923.0,Apartment | 68311636,5,519,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower C,Studio,791000.0,402.0,,1968.0,Apartment | 68311636,13,1319,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,Verde by Vision,,,2,1635750.0,1184.0,,1382.0,Apartment | 6821375,14,1411,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower C,1,1287000.0,758.0,,1698.0,Apartment,4,414,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower A,Studio,718000.0,381.0,,1885.0,Apartment | 68311636,12,1229,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Project Maybach,,,Studio,1374000.0,362.0,,3796.0,Apartment | 6184089,7,703,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,Studio,771000.0,402.0,,1918.0,Apartment | 68311636,4,420,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Sea Legend One,,3,3520104.0,1530.0,,2301.0,Apartment | 1010350,9,902,Initial Sale,-,MVS Real Estate,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,2,2001000.0,1156.0,,1731.0,Apartment | 68311636,7,708,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Village Circle,JVC District 15,Stonehenge Residences 2,,1,1070000.0,737.0,,1452.0,Apartment | 6817321,5,508,Resale,-,Segrex Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,Studio,771000.0,401.0,,1923.0,Apartment | 68311636,5,510,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,Sierra by Iman,,,1,1125399.0,797.0,,1412.0,Apartment | 6740195,11,1106,Initial Sale,-,Iman Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Town Square,Evelyn on the Park,,,1,1133888.0,612.0,,1853.0,Apartment | 92225803,8,809,Initial Sale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,Studio,733000.0,377.0,,1944.0,Apartment | 68311636,9,909,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,MAG 777,,,Studio,760000.0,456.0,,1667.0,Apartment | 6820142,17,1705,Initial Sale,-,MAG Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Haven,Verdes by Haven,Pine,,2,1902234.0,1423.0,,1337.0,Apartment | 64810506,1,B4-102,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower B,3,4872828.0,1733.0,,2812.0,Apartment | 1010151,4,B-402,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Business Bay,The Executive Towers,Executive Towers M,,2,2200000.0,1426.0,,1543.0,Apartment | 3460391,36,3604,Resale,-,Dubai Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Sea Legend One,,3,3745297.0,1628.0,,2301.0,Apartment | 1010350,9,901,Initial Sale,-,MVS Real Estate,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,Sierra by Iman,,,1,1288342.0,790.0,,1631.0,Apartment | 6740195,8,805,Initial Sale,-,Iman Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Villanova,Amaranta,Amaranta 2,,3,2625000.0,1920.0,1839.0,1367.0,Townhouse | 6483668,G+1,P16_038_02,Resale,-,Dubai Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Title Deed,Dubai Hills Estate,Park Heights 1,,,2,2250000.0,955.0,,2356.0,Apartment | 6311119,18,1815,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower A,Studio,765000.0,406.0,,1884.0,Apartment,2,216,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Bahamas,Bahamas 1,,5,4155000.0,3181.0,2516.0,1306.0,Townhouse | 92110048,G+2,G172X01,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower A,Studio,749000.0,391.0,,1916.0,Apartment,3,315,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Village Triangle,JVT District 3,Pacific Edmonton Elm,,1,680000.0,791.0,,860.0,Apartment | 6848922,2,214,Resale,-,Pacific Investments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Azizi Venice,Azizi Venice Building 15,Azizi Venice Building 15A,1,1112000.0,736.0,,1511.0,Apartment | 5211362,5,521,Initial Sale,-,Azizi,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,DAMAC Hills 2,-,,,-,815000.0,,1882.0,433.0,Land,-,DH2-XL2139B,Initial Sale,-,DAMAC Properties,-,General,,,,-,-,-,-
+06 Apr 2026,Title Deed,Dubai South,Emaar South,Expo Golf Villas,Greenview 1,4,3600000.0,2423.0,3428.0,1486.0,Townhouse | 5211830,G+1,150,Resale,-,Emaar,-,-,,,,-,-,-,-
+06 Apr 2026,Title Deed,Nad Al Sheba,Nad Al Sheba 1,Nad Al Sheba Gardens,Nad Al Sheba Gardens 4,4,8976000.0,3806.0,6006.0,2358.0,Villa | 6182388,G+1,132,Resale,-,Meraas,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Sobha Hartland,Sobha Hartland Waves Opulence,,,3,3950000.0,2076.0,,1903.0,Apartment | 3473940,35,3505,Resale,-,Sobha Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Majan,The 50,,,1,1200000.0,922.0,,1302.0,Apartment | 6457946,6,604,Initial Sale,-,Trigono Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Sea Legend One,,3,3526475.0,1533.0,,2300.0,Apartment | 1010350,8,802,Initial Sale,-,MVS Real Estate,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Village Circle,JVC District 15,Stonehenge Residences 2,,1,1015000.0,691.0,,1469.0,Apartment | 6817321,6,601,Resale,-,Segrex Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Town Square,Odessa,,,2,1588888.0,1076.0,,1477.0,Apartment | 92225762,7,710,Initial Sale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower A,3,7863828.0,3900.0,,2016.0,Apartment | 1010151,G,A-G13,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Azizi Venice,Azizi Venice Building 14,Azizi Venice Building 14F,Studio,663300.0,362.0,,1832.0,Apartment | 5211358,13,1337,Initial Sale,-,Azizi,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Maritime City,Kanyon By Beyond,,,1,2406000.0,857.0,,2807.0,Apartment | 3210354,17,1704,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Maui,,,4,2903000.0,2210.0,1550.0,1314.0,Townhouse | 92111070,G+1,B143X03,Initial Sale,-,DAMAC Properties,-,-,,,,DSTH-M1,-,-,-
+06 Apr 2026,Oqood,Dubai Residence Complex,Cybele By Wadan,,,1,928039.0,689.0,,1347.0,Apartment | 6488568,4,416,Initial Sale,-,Wadan Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Sobha Hartland,Sobha Hartland Waves Opulence,,,3,3950000.0,2076.0,,1903.0,Apartment | 3473940,34,3405,Resale,-,Sobha Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Studio City,Ryah Living,,,2,1520000.0,1152.0,,1319.0,Apartment | 6757716,2,212,Initial Sale,-,Al Yakka Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,Verde by Vision,,,2,1653750.0,1184.0,,1397.0,Apartment | 6821375,16,1611,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Deira,Abu Hail,,,8,2200000.0,,2400.0,,Villa | 1261212,G+1,,Resale,-,,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster K,Viewz by Danube,Viewz 1,Studio,964000.0,403.0,,2392.0,Apartment | 3936019,4,404,Resale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Esme Beach Residences,,3,9800000.0,2295.0,,4270.0,Apartment | 1010335,12,1208,Initial Sale,-,Elysian Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Downtown Dubai,Downtown,Burj Views,Burj Views A,2,2530000.0,1347.0,,1878.0,Apartment | 3450422,13,1301,Resale,"Community,Burj Khalifa,Partial fountains,Sports courts ,Construct",Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Business Bay,Aykon City,Aykon City Tower C,,2,1460000.0,805.0,,1814.0,Apartment | 3460266,34,3406,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,International City,CBD,Yigo 26 Residences,,1,809164.0,705.0,,1148.0,Apartment | 6212006,8,815,Initial Sale,-,Yangtze International Real Estate Developer LLC,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,International City,CBD,Yigo 26 Residences,,1,780784.0,729.0,,1071.0,Apartment | 6212006,4,402,Initial Sale,-,Yangtze International Real Estate Developer LLC,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Terra Woods,Terra Woods Building 2,1,1630888.0,752.0,,2169.0,Apartment | 5211040,5,514,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Cybele By Wadan,,,Studio,680036.0,428.0,,1589.0,Apartment | 6488568,13,1305,Initial Sale,-,Wadan Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Waada by Bahria Town,Cascada,Cascada 2,1,862000.0,768.0,,1122.0,Apartment | 5211368,5,504,Initial Sale,-,BT Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Azizi Venice,Azizi Venice Building 6,Azizi Venice Building 6G,Studio,745000.0,354.0,,2105.0,Apartment | 5211355,4,421,Initial Sale,-,Azizi,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach 6,Maybach 6 Tower B,,2,3353000.0,972.0,,3450.0,Apartment | 6184080,27,2731,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Production City,Lakeside Residence,Lakeside Tower A,,Studio,425000.0,369.0,,1152.0,Apartment | 6854304,4,414,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Cove Edition 6,,,Studio,763682.0,414.0,,1845.0,Apartment | 6489259,6,615,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,DAMAC Lagoons,Malta,Malta 2,,4,2950000.0,2273.0,1550.0,1298.0,Townhouse,G+1,DL-P163,Resale,-,DAMAC Properties,-,-,,,,LTH-4D-M,-,-,-
+06 Apr 2026,Oqood,International City,CBD,Yigo 26 Residences,,1,843075.0,760.0,,1109.0,Apartment | 6212006,1,114,Initial Sale,-,Yangtze International Real Estate Developer LLC,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Production City,Vista by Vision,,,Studio,680700.0,460.0,,1480.0,Apartment | 6854344,9,906,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,The Springs,Springs 5,2 Street,,3,6100000.0,2748.0,4044.0,2220.0,Townhouse | 3942959,G+1,31,Resale,Back to back,Emaar,-,-,,,,Type 2E,-,-,-
+06 Apr 2026,Oqood,Dubai Sports City,Verde by Vision,,,2,1754190.0,1242.0,,1412.0,Apartment | 6821375,16,1604,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Al Furjan,Al Furjan East,Sunbliss Residences,,2,1943000.0,1336.0,,1454.0,Apartment | 5913000,3,303,Initial Sale,-,Purvanchal Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,DAMAC Lagoons,Costa Brava,Costa Brava 1,,4,2880000.0,2280.0,1551.0,1263.0,Townhouse | 6835734,G+1,DL-J390,Resale,-,DAMAC Properties,-,-,,,,LTH-4B-M,-,-,-
+06 Apr 2026,Title Deed,Dubai Healthcare City 2,O10,,,1,1390000.0,841.0,,1653.0,Apartment | 3261708,7,704,Resale,-,Aqua Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Marina,Aeternitas Tower,,,2,2050000.0,1068.0,,1919.0,Apartment | 3920198,7,707,Resale,-,London Gate,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Arabian Ranches,Palmera,Palmera 2,Palm Way-1 Street,2,4999999.0,2436.0,3253.0,2053.0,Townhouse | 6642641,G+1,Pal II-Villa 167,Resale,-,Emaar,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 2,Binghatti Flare,Binghatti Flare 02,1,1410999.0,820.0,,1721.0,Apartment | 6848902,14,1408,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,International City,Emirates Cluster,Building 11,,Studio,380000.0,468.0,,812.0,Apartment | 6211556,1,103,Resale,-,Nakheel,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Madinat Jumeirah Living,Lamtara,Lamtara 2,,2,3680000.0,1378.0,,2671.0,Apartment | 3660274,3,304,Resale,Community,Dubai Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Village Circle,JVC District 18,Binghatti Royale,,1,1750000.0,921.0,,1900.0,Apartment | 6817792,6,606,Resale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Waada by Bahria Town,Cascada,Cascada 2,1,862000.0,761.0,,1133.0,Apartment | 5211368,5,510,Initial Sale,-,BT Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Silicon Oasis,Ruby Residence,,,2,1215000.0,1112.0,,1093.0,Apartment | 62662159,7,706,Resale,-,Deyaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Binghatti City,Maybach 6,Maybach 6 Tower A,,Studio,1345000.0,395.0,,3405.0,Apartment | 6184080,9,926,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Business Bay,Binghatti Aquarise,Binghatti Aquarise Tower C,,1,2387999.0,907.0,,2633.0,Apartment | 3460284,18,C1838,Initial Sale,ARTIFICIAL BEACH,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Mina Rashid Yachts and Marina,Sera 1,Sera 1 Building A,,1,2154888.0,777.0,,2773.0,Apartment | 3210490,4,A405,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Town Square,Sama Townhouses,,,3,3150000.0,2236.0,2023.0,1409.0,Townhouse | 9220497,G+1,TH-137,Resale,-,Nshama,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai South,Dubai South Residential District,Views VII by Golden Woods,,Studio,430000.0,405.0,,1062.0,Apartment | 5213661,3,315,Resale,-,Golden Wood Real Estate Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Motor City,Uptown Motor City,Sherlock Circus,Sherlock Circus 3,2,1550000.0,1915.0,,809.0,Apartment | 6740299,G,G06,Resale,-,Union Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,MAG 777,,,1,1307200.0,772.0,,1693.0,Apartment | 6820142,17,1703,Initial Sale,-,MAG Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 2,Binghatti Flare,Binghatti Flare 02,2,2299999.0,1894.0,,1214.0,Apartment | 6848902,28,2807,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Town Square,Zahra Apartments,Zahra Apartments 2A,,3,1600000.0,1408.0,,1136.0,Apartment | 9228903,5,513,Resale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Waada by Bahria Town,Cascada,Cascada 2,1,965000.0,766.0,,1260.0,Apartment | 5211368,14,1410,Initial Sale,-,BT Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Maritime City,Breez by Danube,,,Studio,1342600.0,394.0,,3408.0,Apartment | 3210277,11,1121,Initial Sale,Sea,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Downtown Dubai,Downtown,8 Boulevard Walk,,1,1550000.0,864.0,,1794.0,Apartment | 3450808,14,1406,Resale,Community,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,MAG 777,,,1,1170900.0,735.0,,1593.0,Apartment | 6820142,14,1406,Initial Sale,-,MAG Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Cove Edition 6,,,Studio,745740.0,410.0,,1819.0,Apartment | 6489259,4,404,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,Binghatti Sky Terraces,,,1,1449999.0,809.0,,1792.0,Apartment | 6740341,21,A-2109,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,Binghatti Sky Terraces,,,1,1380999.0,749.0,,1844.0,Apartment | 6740341,34,A-3406,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Mina Rashid Yachts and Marina,Sera 1,Sera 1 Building A,,1,2242888.0,757.0,,2963.0,Apartment | 3210490,2,A213,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Lakes Towers,Cluster K,MBL Royal Residences,,3,4825000.0,2250.0,,2144.0,Apartment | 3936247,33,3305,Resale,-,MAG Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Cybele By Wadan,,,Studio,686575.0,428.0,,1604.0,Apartment | 6488568,2,206,Initial Sale,-,Wadan Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Palm Jumeirah,Palm Views,Palm Views West,,Studio,1275000.0,542.0,,2352.0,Apartment | 3812729,1,111,Resale,Sea,Nakheel,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,Studio,875140.0,385.0,,2273.0,Apartment | 6817800,9,A911,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Park,Jumeirah Park - District 4,,,4,13500000.0,5069.0,6444.0,2663.0,Villa | 3931067,G+1,JPA4V003,Resale,-,Nakheel,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Harbour,Emaar Beachfront,Beachgate by Address,,3,6480888.0,1595.0,,4063.0,Apartment | 3920727,26,2605,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Le Blanc by Imtiaz,,,Studio,782466.0,442.0,,1770.0,Apartment | 6488591,11,1118,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Islands 2,Cuba,,,4,2746000.0,2210.0,1550.0,1243.0,Townhouse | 92110271,G+1,E151X09,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Binghatti City,Maybach Ultimate Luxury,Maybach Ultimate Luxury Tower A,,1,2366000.0,617.0,,3835.0,Apartment | 6184081,10,1016,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Sports City,Oasis Towers,Oasis Tower 1,,3,1450000.0,1612.0,,900.0,Apartment | 6820125,15,1508,Resale,-,Brighton Holdings,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Business Bay,Aykon City,DAMAC Maison AYKON City,,2,2031000.0,1076.0,,1888.0,Hotel Apartment | 3460266,27,2701,-,-,DAMAC Properties,-,Hotel Apartment,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Mohammed Bin Rashid City,Azizi Riviera,Azizi Riviera 9,,Studio,660000.0,318.0,,2075.0,Apartment | 3475008,5,510,Resale,-,Azizi,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Business Bay,Terraces Marasi Drive,,,2,3579559.0,2311.0,,1549.0,Apartment | 3460661,13,1306,Resale,-,Keymaven,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Business Bay,Terraces Marasi Drive,,,1,1896000.0,1226.0,,1546.0,Apartment | 3460661,17,1709,Resale,-,Keymaven,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Dubai South,Dubai South Residential District,Divine Elements,,Studio,673200.0,359.0,,1875.0,Apartment | 5213121,2,215,-,-,Takmeel Real Estate Development,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Residence Complex,Skycourts Towers,Skycourts Tower C,,2,875000.0,1268.0,,690.0,Apartment | 6489265,11,1112,Resale,-,National Bonds Corporation PJSC,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Mohammed Bin Rashid City,Azizi Riviera,Azizi Riviera 63,,Studio,822150.0,341.0,,2411.0,Apartment | 3475087,2,208,Resale,-,Azizi,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Mohammed Bin Rashid City,Azizi Riviera,Azizi Riviera 69,,2,2655250.0,1239.0,,2143.0,Apartment | 3475098,6,611,Initial Sale,Road,Azizi,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Arjan,One Beverly,,,1,925000.0,765.0,,1209.0,Apartment | 6731323,1,149,Initial Sale,-,HMB Homes,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,DAMAC Riverside,Riverside Views,Riverside Views Azure 2,Riverside Views Azure 2 C,1,1066000.0,753.0,,1416.0,Apartment | 5976666,1,112,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,DAMAC Riverside,Olive,,,5,4409000.0,3421.0,2377.0,1289.0,Townhouse | 5976727,G+2,E23X06,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,-
+07 Apr 2026,Title Deed,Dubai Hills Estate,Park Horizon,Park Horizon Tower 2,,3,3790000.0,1355.0,,2797.0,Apartment | 6311375,19,1908,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Motor City,15 Cascade,,,1,1652452.0,1276.0,,1295.0,Apartment | 6740199,3,302,Initial Sale,-,Iman Developers,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Silicon Oasis,Silicon Gates,Silicon Gates 4,,Studio,311117.0,270.0,,1152.0,Apartment | 6261822,8,812,Resale,-,Al Derea Group,-,-,,,,-,-,-,No
+07 Apr 2026,Oqood,Meydan Horizon,The Symphony by Imtiaz,,,2,3290343.0,1369.0,,2403.0,Apartment | 6117258,14,1412,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Creek Harbour,Creek Palace,,,2,3225000.0,1051.0,,3069.0,Apartment | 4154947,12,1205,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Healthcare City 2,Creek Views I (Farhad Azizi Residence),,,1,1235000.0,650.0,,1900.0,Apartment | 3262953,5,528,Resale,"Community,Distant Burj Khalifa,Road",Azizi,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 14,Palatium Residences,,1,1203457.0,987.0,,1219.0,Apartment | 6817269,1,111,Initial Sale,Pool,Ahmadyar Developments,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Sports City,Royal Residence,Royal Residence 1,,Studio,400000.0,306.0,,1307.0,Apartment | 6821371,7,728,Resale,-,Bangash Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Sports City,Zenith Towers,Zenith Tower 2,,1,850000.0,853.0,,996.0,Apartment | 6821387,3,307,Resale,-,Zenith Group,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Business Bay,Elite Business Bay Residence,,,1,1125000.0,853.0,,1319.0,Apartment | 3460567,2,211,Resale,-,Triplanet International,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Arjan,Green Diamond One,Green Diamond One Building B,,3,1300000.0,1038.0,,1252.0,Apartment | 6731273,6,B-611,Resale,-,Diamond Developers,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Silicon Oasis,Silicon Gates,Silicon Gates 1,,Studio,285000.0,339.0,,841.0,Apartment | 6262542,19,B-1903A,Resale,-,Al Derea Group,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Majan,OST Tower 11,,,Studio,777250.0,525.0,,1480.0,Apartment | 6455937,13,1308,Initial Sale,-,Alkayem Real Estate Development,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Dubai South,Emaar South,Vista Ridge,Vista Ridge Tower 2,2,2031888.0,1501.0,,1354.0,Apartment | 5213509,1,104,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,DAMAC Hills,Golf Town,Golf Greens,Golf Greens 2 | Golf Greens 2B,1,1699000.0,1045.0,,1626.0,Apartment | 6769466,21,2104,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Dubai Creek Harbour,Palace Residences Creek Blue,Palace Residences Creek Blue Podium,,3,4771888.0,1600.0,,2982.0,Apartment | 4156360,P2,P205,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Village Circle,JVC District 14,Luma Park Views,,2,2001230.0,1233.0,,1623.0,Apartment | 6817149,22,2215,Initial Sale,-,TownX,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Arjan,Torino Residences,Torino Residences 2,,Studio,1400000.0,369.0,,3794.0,Apartment | 6730122,5,504,Resale,-,Oro24,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Al Sufouh,Al Sufouh 2,DAMAC Casa,,3,12480300.0,3383.0,,3689.0,Apartment | 3820749,31,3103,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Downtown Jebel Ali,Equiti Gate,,,1,1045034.0,697.0,,1499.0,Apartment | 5180124,8,804,Initial Sale,-,BNH Real Estate Developer,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Business Bay,Canal Crown,,,2,4255000.0,1460.0,,2914.0,Apartment | 3460628,36,3601,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Silicon Oasis,Binghatti Crystals,,,Studio,500000.0,529.0,,945.0,Apartment | 6261812,5,527,Initial Sale,-,Binghatti,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana VII,4,1338000.0,2885.0,1189.0,464.0,Townhouse | 5981432,G+3,VILLA-170,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+07 Apr 2026,Title Deed,The Springs,Springs 15,3 Street,,3,6200000.0,2705.0,6844.0,2292.0,Townhouse | 3943650,G+1,1,Resale,Park,Emaar,-,-,,,,Type 2E,-,-,-
+07 Apr 2026,Title Deed,Business Bay,The Atria,The Atria Residences,,2,2500000.0,1571.0,,1591.0,Apartment | 3460562,21,2101,Resale,Stables,Deyaar,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Downtown Dubai,Downtown,Boulevard Central,Boulevard Central 2,1,2100000.0,780.0,,2692.0,Apartment | 3450824,13,1307,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Lakes Towers,Cluster Q,Saba Tower 2,,2,2200000.0,1481.0,,1485.0,Apartment | 3930938,7,706,Resale,-,Saba Group,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Badr,Qamar,Qamar 11,,1,1690000.0,1198.0,,1411.0,Apartment | 2615314,G,009,Resale,"Community,Road",Dubai Islamic Bank,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Village Circle,JVC District 14,Emirates Gardens 2,Maple | Maple 1,1,740000.0,974.0,,760.0,Apartment | 6817233,2,201,Resale,-,DAMAC Properties,-,-,,,,-,-,-,No
+07 Apr 2026,Title Deed,Liwan,Symbolic Alpha,,,1,915000.0,715.0,,1280.0,Apartment | 6437612,5,506,Resale,"Community,Vacant Land,Construction",Symbolic Developments,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Studio City,Azizi Vista,,,Studio,600000.0,452.0,,1327.0,Apartment | 6757700,1,117,Resale,-,Azizi,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,International City Phase 2,Al Helal Al Zahby 2,,,Studio,480000.0,439.0,,1093.0,Apartment | 6240824,G,G02,Resale,-,HZ Development,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Marina,Sparkle Towers,Sparkle Tower 2,,1,2000000.0,970.0,,2062.0,Apartment | 3920404,6,2-601,Resale,-,Tebyan Real Estate Development Enterprises,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Business Bay,Merano,,,1,1050000.0,644.0,,1630.0,Apartment | 3460477,12,1210,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Waterfront,Badrah,,,3,1050000.0,1411.0,,744.0,Apartment | 5110784,L1,106,Resale,-,Nakheel,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Creek Harbour,Creek Horizon,Creek Horizon Tower 2,,2,2300000.0,1127.0,,2041.0,Apartment | 4158709,3,303,Resale,"Community,Swimming Pool",Emaar,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Majan,OST Tower 11,,,2,1766520.0,1394.0,,1267.0,Apartment | 6455937,14,1406,Initial Sale,-,Alkayem Real Estate Development,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Liwan,Queue Point,Mazaya 1,,1,625000.0,915.0,,683.0,Apartment | 6437733,6,604,Resale,-,Al Mazaya Real Estate FZ LLC,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Business Bay,Aykon City,DAMAC Maison AYKON City,,Studio,679026.0,413.0,,1644.0,Hotel Apartment | 3460266,28,2817,Resale,-,DAMAC Properties,-,Hotel Apartment,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Village Triangle,Green Park,,,Studio,640000.0,735.0,,871.0,Apartment | 6849711,3,318,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Downtown Dubai,Downtown,Burj Royale,,1,2000000.0,628.0,,3185.0,Apartment | 3450793,9,908,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Haven,Verdes by Haven,Forest,,2,1961622.0,1610.0,,1218.0,Apartment | 64810506,1,B1-104,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Business Bay,Damac Majestine,,,Studio,820000.0,480.0,,1708.0,Apartment | 3466830,15,1517,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Investments Park,Green Community,Green Community West,,4,8750000.0,6005.0,10547.0,1457.0,Villa | 5980174,G+1,2906,Resale,-,Properties Investment,-,-,,,,-,-,-,-
+07 Apr 2026,Title Deed,Jumeirah Village Circle,JVC District 10,Stonehenge Residences,,1,1100000.0,783.0,,1405.0,Apartment | 6816114,4,412,Resale,-,Segrex Development,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Village Circle,JVC District 10,Bloom Towers,Bloom Tower C,1,1000000.0,740.0,,1351.0,Apartment | 6816225,31,C-3110,Resale,-,Bloom Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Village Circle,JVC District 10,Le Grand Chateau,Le Grand Chateau A,Studio,650000.0,548.0,,1186.0,Apartment | 6816203,G,A008,Resale,-,,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Town Square,Hayat Boulevard,Hayat Boulevard-2B,,2,950000.0,1084.0,,876.0,Apartment | 9228910,4,412,Resale,-,Nshama,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Business Bay,Peninsula,Peninsula Three,,1,2100000.0,698.0,,3009.0,Apartment | 3460187,38,38-07,Resale,-,Select Group,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Motor City,Uptown Motor City,Oia Residence,OIA East Residence,2,2075000.0,1681.0,,1234.0,Apartment | 6740291,4,438,Resale,"Community,Swimming Pool,Park",Union Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Sports City,The Matrix,,,Studio,645000.0,837.0,,771.0,Apartment | 6820122,4,412,Resale,-,The First Group,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Silicon Oasis,Arabian Gate,,,Studio,355000.0,340.0,,1044.0,Apartment | 6262608,3,342,Resale,-,Time Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Downtown Jebel Ali,Azizi Aura,,,Studio,595000.0,352.0,,1690.0,Apartment | 5180209,13,1313,Resale,-,Azizi,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Village Circle,JVC District 14,Belgravia 3,Belgravia 3 Tower B,2,2400000.0,2001.0,,1199.0,Apartment | 6817356,G,BG16,Resale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Residence Complex,Blue Wave Tower,,,Studio,425000.0,378.0,,1124.0,Apartment | 6488520,12,1205,Resale,-,Tiger Properties,-,-,,,,-,-,-,No
+07 Apr 2026,Title Deed,Dubai Production City,Lakeside Residence,Lakeside Tower C,,Studio,400000.0,369.0,,1084.0,Apartment | 6854304,1,107,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Village Triangle,JVT District 1,555 Park Views,,1,1285000.0,864.0,,1487.0,Apartment | 6848862,3,306,Resale,-,Serene Real Estate Developments,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Business Bay,Fairview Residency,,,1,1300000.0,796.0,,1633.0,Apartment | 3460629,3,309,Resale,-,Deyaar,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Majan,OST Tower 11,,,1,1254700.0,902.0,,1391.0,Apartment | 6455937,14,1402,Initial Sale,-,Alkayem Real Estate Development,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Sobha Hartland,Creek Vistas Grande,,,1,1700000.0,855.0,,1988.0,Apartment | 3479420,33,3306,Resale,-,Sobha Group,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Town Square,Holland Gardens,,,2,1600000.0,1017.0,,1573.0,Apartment | 9229082,5,520,Resale,-,Nshama,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Village Circle,JVC District 10,May Residence,May Residence 3,1,763000.0,1166.0,,654.0,Apartment | 6816227,1,111,Resale,-,May Real Estate Development,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Business Bay,The Sterling,The Sterling West House,,2,3300000.0,1660.0,,1988.0,Apartment | 3460712,12,WH1204,Resale,-,Omniyat,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Mohammed Bin Rashid City,Azizi Riviera,Azizi Riviera 46,,Studio,625000.0,302.0,,2070.0,Apartment | 3475042,5,508,Resale,-,Azizi,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Al Furjan,Al Furjan East,Prime Residency 3,,1,1152000.0,755.0,,1526.0,Apartment | 5911818,7,704,Resale,-,Prescott Real Estate Development L.L.C,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,DAMAC Hills,Golf Town,Golf Promenade,Golf Promenade 2 | Golf Promenade 2B,2,2875000.0,2591.0,,1110.0,Apartment | 6764944,G,TH-06,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Dubai Marina,Marina Diamonds,Marina Diamond Tower 6,,2,1550000.0,1084.0,,1430.0,Apartment | 3920255,19,1907,Resale,-,Diamond Developers,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Beach Residence,Shams,Shams 1,,2,4326857.0,3403.0,,1271.0,Apartment | 3920539,LP,P28&29,Resale,-,Dubai Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Al Sufouh,Al Sufouh 2,DAMAC Casa,,2,3936000.0,1525.0,,2581.0,Apartment | 3820749,1,109,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Dubai Science Park (DuBiotech),SAAS Hills,SAAS Hills Tower B,,Studio,1029328.0,551.0,,1868.0,Apartment | 6727779,5,B-515,Initial Sale,-,SAAS Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Jumeirah Golf Estates,Terra Golf Collection,,,6,14797000.0,6921.0,3552.0,2138.0,Townhouse | 6854998,G+3,JGE-JLL-A-V048,Resale,-,Taraf,-,-,,,,Twin Villas,-,-,-
+07 Apr 2026,Oqood,Haven,Verdes by Haven,Pine,,2,2059188.0,1645.0,,1252.0,Apartment | 64810506,G,B4-G02,Initial Sale,-,Aldar Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Palm Jumeirah,Marina Residences,Marina Residences 2,,2,4999999.0,1778.0,,2812.0,Apartment | 3812738,11,1102,Resale,-,Nakheel,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Mudon,Al Ranim,Al Ranim 3,,4,5250000.0,2978.0,3399.0,1763.0,Townhouse | 6771766,G+2,482,Resale,-,Dubai Properties,-,-,,,,Type 4B2,-,-,-
+07 Apr 2026,Title Deed,Majan,OST Tower 11,,,1,1115000.0,783.0,,1424.0,Apartment | 6455937,14,1415,Initial Sale,-,Alkayem Real Estate Development,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,International City Phase 2,Vio Residences,,,1,806540.0,806.0,,1001.0,Apartment | 6241098,2,202,Initial Sale,-,Modelux Developments,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Dubai Islands,Island B (Shore Island),Siora,Hado | Hado Tower A,3,7738000.0,2496.0,,3100.0,Apartment | 1011305,18,A1803,Initial Sale,Sea / Villa community,Beyond,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Beach Residence,Al Bateen Residence,,,4,9850000.0,2944.0,,3346.0,Apartment | 3920572,33,3301,Resale,-,Al Ain Holding,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Dubai South,Expo City,Expo Valley,Expo Valley Views | Mahra,1,1639000.0,918.0,,1785.0,Apartment | 5210986,1,110,Initial Sale,-,Expo Dubai Group,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Village Triangle,-,,,3,3300000.0,2324.0,1807.0,1420.0,Villa | 6843414,G+2,VILLA-4,Resale,-,,-,-,,,,-,-,-,-
+07 Apr 2026,Title Deed,Liwan,Queue Point,Mazaya 27,,1,520000.0,845.0,,615.0,Apartment | 6437599,2,206,Resale,-,Al Mazaya Real Estate FZ LLC,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Downtown Dubai,Downtown,Burj Khalifa,Burj Khalifa Apartments,1,3200000.0,985.0,,3249.0,Apartment | 3450829,20,2010,Resale,-,Emaar,-,-,,,,-,-,-,No
+07 Apr 2026,Title Deed,Liwan,Queue Point,Mazaya 28,,1,520000.0,832.0,,625.0,Apartment | 6437598,2,205,Resale,-,Al Mazaya Real Estate FZ LLC,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Business Bay,Waves Tower,,,1,1800000.0,979.0,,1839.0,Apartment | 3460657,9,901,Resale,Canal,Kasco Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Liwan,Queue Point,Mazaya 27,,2,710000.0,1116.0,,636.0,Apartment | 6437599,2,210,Resale,-,Al Mazaya Real Estate FZ LLC,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Business Bay,The Executive Towers,Executive Towers F,,2,2450000.0,1860.0,,1317.0,Apartment | 3460391,4,405,Resale,-,Dubai Properties,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Jumeirah Lakes Towers,Cluster L,Icon Tower 2,,1,1000000.0,819.0,,1221.0,Apartment | 3930977,6,604,Resale,-,Vakson Real Estate,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Liwan,Queue Point,Mazaya 27,,1,520000.0,832.0,,625.0,Apartment | 6437599,2,205,Resale,-,Al Mazaya Real Estate FZ LLC,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Liwan,Queue Point,Mazaya 27,,1,520000.0,855.0,,608.0,Apartment | 6437599,2,204,Resale,-,Al Mazaya Real Estate FZ LLC,-,-,,,,-,-,-,Yes
+07 Apr 2026,Title Deed,Tilal Al Ghaf,Elan,Elan 2,,4,4800000.0,2380.0,2321.0,2017.0,Townhouse | 6822427,G+1,B613,Resale,"Back to Back,Community,Walkway",Majid Al Futtaim (MAF),-,-,,,,-,-,-,-
+07 Apr 2026,Oqood,Jaddaf Waterfront,La Boutique,,,2,1465200.0,1365.0,,1073.0,Apartment | 3260880,1,101,Initial Sale,-,Continental Investments,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Dubai Creek Harbour,Creek Bay,Creek Bay Tower B,,2,3371888.0,1450.0,,2325.0,Apartment | 4150199,20,2006,Initial Sale,-,Emaar,-,-,,,,-,-,-,Yes
+07 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana IV,3,1131123.0,1685.0,1597.0,671.0,Townhouse | 5981622,G+1,VILLA-139,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana IV,4,1330642.0,2879.0,1021.0,462.0,Townhouse | 5981622,G+3,VILLA-275,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana IV,2,1616427.0,1387.0,1025.0,1165.0,Townhouse | 5981622,G+1,VILLA-189,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+06 Apr 2026,Title Deed,Dubai Silicon Oasis,Silicon Gates,Silicon Gates 1,,Studio,303864.0,389.0,,781.0,Apartment | 6262542,24,C-2401,Resale,-,Al Derea Group,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana IV,2,975565.0,1418.0,1528.0,688.0,Townhouse | 5981622,G+1,VILLA-201,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Investments Park,Dubai Investments Park 1,Verdana,Verdana X,3,1290000.0,1644.0,1993.0,785.0,Townhouse | 5981449,G+1,VILLA-65,Initial Sale,-,Reportage Real Estate,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Elle Residences,,3,5426777.0,1466.0,,3702.0,Apartment | 1010587,8,801,Initial Sale,-,Anax Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Majan,Divine Al Barari,,,Studio,675860.0,437.0,,1547.0,Apartment | 6457887,1,104,Initial Sale,-,Takmeel Real Estate Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Business Bay,AG Tower,,,3,2000000.0,2075.0,,964.0,Apartment | 3460572,26,2608,Initial Sale,-,AG Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Downtown Dubai,Opera District,IL Primo,,4,30000000.0,5176.0,,5796.0,Apartment | 3456900,10,1001,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Palm Jumeirah,The Crescent,Orla Infinity by Omniyat,,4,65436950.0,8391.0,,7798.0,Apartment | 3812424,1,104,Initial Sale,-,Omniyat,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Business Bay,Nobles Tower,,,1,1420000.0,829.0,,1713.0,Apartment | 3460678,22,2203,Resale,-,Tiger Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower A,1,1830828.0,626.0,,2925.0,Apartment | 1010151,G,A-G06,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Majan,Samana Barari Twin Towers,Samana Barari Views 2,,2,1508490.0,989.0,,1525.0,Apartment | 6453275,6,604,Initial Sale,-,Samana Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Dalmore Tower,,,2,1620259.0,1246.0,,1300.0,Apartment | 6488682,7,701,Initial Sale,-,Dalmore Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,Studio,729000.0,380.0,,1918.0,Apartment | 68311636,4,418,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 3,Sonate Residences,,1,1268492.0,849.0,,1494.0,Apartment | 6848929,1,106,Initial Sale,Park & Pool View,Condor Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Al Satwa,Jumeirah Garden City,Trillium Heights,,1,2100000.0,759.0,,2767.0,Apartment | 3347549,2,201,Initial Sale,city walk & shk zayed,Grenorbit Real Estate Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower A,1,2402828.0,802.0,,2996.0,Apartment | 1010151,7,A-713,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Al Satwa,Jumeirah Garden City,DGM Vision,,1,1700000.0,738.0,,2304.0,Apartment | 3342733,6,603,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Falcon City of Wonders,Belgravia Gardens,Belgravia Gardens Building I,,3,3880828.0,2585.0,,1501.0,Apartment | 6439974,6,A 611,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Cybele By Wadan,,,2,1783501.0,1356.0,,1315.0,Apartment | 6488568,8,814,Initial Sale,-,Wadan Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower A,2,1763000.0,1159.0,,1521.0,Apartment | 68311636,5,532,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Town Square,Symphony on the Park,,,2,1526888.0,924.0,,1652.0,Apartment | 9229271,1,112,Initial Sale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Maritime City,Breez by Danube,,,Studio,1344560.0,394.0,,3413.0,Apartment | 3210277,11,1123,Initial Sale,Sea,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,DAMAC Islands,Fiji,Fiji 2,,5,4001000.0,3164.0,2364.0,1265.0,Townhouse | 9218667,G+2,FJ0936,Initial Sale,-,DAMAC Properties,-,-,,,,DITH-E,-,-,-
+06 Apr 2026,Oqood,International City Phase 2,Samana Greenfield,,,1,919000.0,689.0,,1334.0,Apartment | 6241220,9,904,Initial Sale,-,Samana Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Maritime City,Chelsea Residences 2 by Damac,Chelsea Residences 2 Tower C,,1,3207000.0,897.0,,3575.0,Apartment | 3210140,32,3201,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Lagoon Views 13,Lagoon Views 13 Building B,2,776000.0,1163.0,,667.0,Apartment | 68311642,13,1307,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Cybele By Wadan,,,2,1517064.0,1274.0,,1191.0,Apartment | 6488568,5,501,Initial Sale,-,Wadan Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,Studio,1157805.0,373.0,,3104.0,Apartment | 3930950,4,413,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower A,1,2216828.0,802.0,,2764.0,Apartment | 1010151,4,A-404,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Mohammed Bin Rashid City,District 11,,,-,26000000.0,,16577.0,1568.0,Land | 6456309,-,L.10,Resale,-,,-,General,,,,-,-,-,-
+06 Apr 2026,Oqood,Falcon City of Wonders,Belgravia Gardens,Belgravia Gardens Building IV,,2,2376828.0,1409.0,,1687.0,Apartment | 6439974,1,D 104,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Town Square,Evelyn on the Park,,,2,1624888.0,898.0,,1809.0,Apartment | 92225803,4,420,Initial Sale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,Studio,1170580.0,389.0,,3009.0,Apartment | 3930950,4,404,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower A,Studio,760000.0,403.0,,1886.0,Apartment | 68311636,12,1228,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,Studio,797000.0,411.0,,1939.0,Apartment | 68311636,8,806,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Lagoon Views 13,Lagoon Views 13 Building B,1,1228000.0,750.0,,1637.0,Apartment | 68311642,3,319,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Samana Boulevard Heights,,,1,1187592.0,766.0,,1550.0,Apartment | 6488686,11,1116,Initial Sale,Al Ain Road & Community View,Samana Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,Studio,1393752.0,420.0,,3318.0,Apartment | 3930950,11,1115,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,Studio,652000.0,334.0,,1952.0,Apartment | 68311636,10,1009,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower C,Studio,730000.0,383.0,,1906.0,Apartment,2,217,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Majan,Samana Barari Heights,,,Studio,773533.0,422.0,,1833.0,Apartment | 6007763,12,1212,Initial Sale,"=IFERROR(VLOOKUP(K292, Sheet1!A:C, 3, FALSE), """")",Samana Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower A,3,6595828.0,2303.0,,2864.0,Apartment | 1010151,1,A-136,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,Studio,878000.0,385.0,,2281.0,Apartment | 6817800,13,A1311,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Production City,Samana Resorts,Samana Resorts Tower A,,1,1164856.0,882.0,,1321.0,Apartment | 6854334,4,A418,Initial Sale,Community View,Samana Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower C,Studio,739000.0,377.0,,1960.0,Apartment | 68311636,12,1217,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,The Valley,Orania,,,3,2280000.0,2010.0,1904.0,1134.0,Townhouse | 9150675,G+1,TV Orania-V-175,Resale,-,Emaar,-,-,,,,-,-,-,-
+06 Apr 2026,Title Deed,Nad Al Hamar,-,,,-,28000000.0,,41266.0,679.0,Land | 4168091,-,,Resale,-,,-,General,,,,-,-,-,-
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,Studio,652000.0,336.0,,1940.0,Apartment | 68311636,9,916,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Weybridge Gardens 4,,,1,1290257.0,943.0,,1368.0,Apartment | 6488565,12,1216,Initial Sale,-,LEOS Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Town Square,Odessa,,,1,1024888.0,645.0,,1589.0,Apartment | 92225762,10,1007,Initial Sale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Science Park (DuBiotech),SAAS Hills,SAAS Hills Tower B,,2,2593336.0,1753.0,,1479.0,Apartment | 6727779,25,B-2505,Initial Sale,-,SAAS Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Creek Harbour,Creek Beach,Rosewater,Rosewater Building 2,3,4168357.0,2231.0,,1868.0,Apartment | 4154766,G,G05,Resale,-,Emaar,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 13,Maison Elysee III,,Studio,720900.0,394.0,,1830.0,Apartment | 6817075,11,1104,Initial Sale,-,Pantheon Properties Limited,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower A,1,1208000.0,736.0,,1641.0,Apartment | 68311636,3,335,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Dubai South Residential District,Avion Residence,,2,1304000.0,1188.0,,1098.0,Apartment | 5212903,4,411,Initial Sale,-,Sky View Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,2,3362352.0,999.0,,3366.0,Apartment | 3930950,16,1614,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Dubai South,Dubai South Residential District,Windsor House II,Windsor House II - Tower A,2,1710828.0,1132.0,,1511.0,Apartment | 5213560,6,A-605,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Lagoon Views 13,Lagoon Views 13 Building B,1,741000.0,807.0,,918.0,Apartment | 68311642,11,1116,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,VERDAN1A 2,,,1,1161175.0,754.0,,1540.0,Apartment | 6488641,3,307,Initial Sale,-,Object 1,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,2,2996587.0,1001.0,,2994.0,Apartment | 3930950,9,906,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 13,Maison Elysee III,,1,1059954.0,632.0,,1677.0,Apartment | 6817075,12,1207,Initial Sale,-,Pantheon Properties Limited,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Business Bay,One River Point,,,2,3553828.0,1477.0,,2406.0,Apartment | 3460492,27,2708,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island B (Shore Island),Siora,Hado | Hado Tower A,2,6166000.0,2159.0,,2856.0,Apartment | 1011305,5,A506,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,Studio,751000.0,399.0,,1882.0,Apartment | 68311636,12,1231,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 3,Sonate Residences,,2,1620173.0,1304.0,,1242.0,Apartment | 6848929,3,305,Initial Sale,Pool & Park View,Condor Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Dubai South Residential District,Avion Residence,,1,945000.0,885.0,,1068.0,Apartment | 5212903,6,605,Initial Sale,-,Sky View Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Town Square,Hillcrest,,,3,2585888.0,1794.0,,1441.0,Apartment | 92225792,2,201,Initial Sale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,Studio,783000.0,403.0,,1943.0,Apartment | 68311636,9,913,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower A,Studio,864270.0,382.0,,2262.0,Apartment | 6817800,8,A821,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 12,The Portman,,2,1625828.0,971.0,,1674.0,Apartment | 6816752,11,1103,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,Studio,740520.0,380.0,,1949.0,Apartment | 68311636,13,1308,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 12,Maison Elysee,Maison Elysee II,1,750000.0,649.0,,1156.0,Apartment | 6816503,11,1109,Initial Sale,-,Pantheon Properties Limited,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 16,The Fifth Tower,,1,764646.0,649.0,,1178.0,Apartment | 6817428,27,2704,Initial Sale,-,Object 1,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 2,S1lva Park Living,,2,1529067.0,1213.0,,1261.0,Apartment | 6848915,1,107,Initial Sale,-,Object 1,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Meydan Horizon,The Symphony by Imtiaz,,,1,2089725.0,889.0,,2351.0,Apartment | 6117258,34,3403,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,Studio,716000.0,376.0,,1904.0,Apartment | 68311636,1,118,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Business Bay,Peninsula,Peninsula Three,,2,2800000.0,1080.0,,2593.0,Apartment | 3460187,39,39-01,Resale,-,Select Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island B (Shore Island),Siora,Hado | Hado Tower B,3,9256100.0,2894.0,,3198.0,Apartment | 1011305,1,B105,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 16,The Fifth Tower,,1,804200.0,657.0,,1224.0,Apartment | 6817428,27,2702,Initial Sale,-,Object 1,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Meydan Horizon,The Symphony by Imtiaz,,,1,2084128.0,885.0,,2355.0,Apartment | 6117258,34,3406,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Mudon,Al Ranim,Al Ranim 2,,4,5350000.0,2978.0,4025.0,1797.0,Townhouse | 6770128,G+2,277,Resale,-,Dubai Properties,-,-,,,,Type 4B2,-,-,-
+06 Apr 2026,Oqood,Dubai Islands,Island B (Shore Island),Siora,Hado | Hado Tower C,1,2456000.0,770.0,,3190.0,Apartment | 1011305,4,C417,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower A,1,781000.0,778.0,,1004.0,Apartment,6,619,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Town Square,Evelyn on the Park,,,1,1133888.0,612.0,,1853.0,Apartment | 92225803,8,810,Initial Sale,-,Nshama,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Meydan Horizon,The Symphony by Imtiaz,,,1,2139666.0,933.0,,2293.0,Apartment | 6117258,34,3407,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Dubai South Residential District,Avenew 888,Avenew 888 - Loom | Avenew 888 - Building C,1,903000.0,641.0,,1409.0,Apartment | 5212792,7,C705,Initial Sale,-,Avenew Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 16,The Fifth Tower,,1,797319.0,648.0,,1230.0,Apartment | 6817428,27,2701,Initial Sale,-,Object 1,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Majan,Barari Gate,,,Studio,729000.0,460.0,,1585.0,Apartment | 6456554,5,526,Initial Sale,-,ADE Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Business Bay,Damac Majestine,,,1,1305000.0,944.0,,1382.0,Apartment | 3466830,18,1819,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,Studio,766000.0,391.0,,1959.0,Apartment | 68311636,12,1215,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Meydan Horizon,The Symphony by Imtiaz,,,1,2284101.0,883.0,,2587.0,Apartment | 6117258,19,1912,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 18,Serenz,Serenz Tower B,Studio,941780.0,427.0,,2206.0,Apartment | 6817800,12,B1209,Initial Sale,-,Danube Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Arjan,Marquis One,,,1,1464700.0,892.0,,1642.0,Apartment | 6731217,17,1720,Initial Sale,-,Marquis Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,1,1192000.0,717.0,,1662.0,Apartment | 68311636,7,734,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 11,Auresta Tower,,1,831810.0,670.0,,1242.0,Apartment | 6816340,17,1720,Initial Sale,-,Tiger Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Dubai South Residential District,Windsor House II,Windsor House II - Tower B,2,1796828.0,1135.0,,1583.0,Apartment | 5213560,6,B-620,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Meydan Horizon,The Symphony by Imtiaz,,,1,2347198.0,883.0,,2658.0,Apartment | 6117258,22,2201,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Expo City,Expo Valley,Expo Valley Views | Mahra,1,1670000.0,890.0,,1876.0,Apartment | 5210986,1,103,Initial Sale,-,Expo Dubai Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower B,Studio,793000.0,403.0,,1968.0,Apartment | 68311636,13,1316,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island B (Shore Island),Siora,Hado | Hado Tower A,1,2563000.0,831.0,,3084.0,Apartment | 1011305,3,A311,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Meydan Horizon,The Symphony by Imtiaz,,,3,4044113.0,1910.0,,2117.0,Apartment | 6117258,30,3008,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Living Legends,Villa C,,,5,6100000.0,3384.0,6067.0,1803.0,Villa | 6457253,G+1,C149,Resale,"Community,Mosque (front)",Tanmiyat,-,-,,,,-,-,-,-
+06 Apr 2026,Title Deed,Arabian Ranches,Al Reem,Al Reem 3,Al Reem Avenue Street,3,4500000.0,2519.0,2441.0,1786.0,Townhouse | 6641162,G+1,35,Resale,-,Emaar,-,-,,,,-,-,-,-
+06 Apr 2026,Oqood,Jumeirah Village Circle,JVC District 12,Maison Elysee,Maison Elysee II,1,750000.0,649.0,,1156.0,Apartment | 6816503,13,1309,Initial Sale,-,Pantheon Properties Limited,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Residence Complex,Aark Residences,,,2,1200000.0,1245.0,,964.0,Apartment | 6488609,1,101,Initial Sale,-,Aark Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island B (Shore Island),Siora,Hado | Hado Tower C,1,2585000.0,829.0,,3118.0,Apartment | 1011305,5,C510,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,Sierra by Iman,,,1,1280438.0,790.0,,1621.0,Apartment | 6740195,7,705,Initial Sale,-,Iman Developers,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 3,ELAR1S Sky,,2,2099679.0,1457.0,,1441.0,Apartment | 6848936,1,101,Initial Sale,-,Object 1,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Sports City,Verde by Vision,,,2,1644750.0,1184.0,,1389.0,Apartment | 6821375,15,1511,Initial Sale,-,Vision Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,Studio,1277138.0,391.0,,3266.0,Apartment | 3930950,11,1105,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands I | Ellington Sands I Tower B,2,3239828.0,1210.0,,2678.0,Apartment | 1010150,7,B-708,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Mohammed Bin Rashid City,District 11,The Willows Residences,,1,1304388.0,686.0,,1901.0,Apartment | 6456324,1,106,Initial Sale,-,SCC Vertex Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Al Furjan,Al Furjan East,Roy Mediterranean,,Studio,540000.0,498.0,,1084.0,Hotel Apartment | 5911801,1,138,Resale,-,Azizi,-,Hotel Apartment,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Motor City,Ananda Residences,Ananda Residences Tower B,,2,1217099.0,1111.0,,1095.0,Apartment | 6740192,9,B-904,Initial Sale,-,Tiger Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Silicon Oasis,Silicon Gates,Silicon Gates 3,,3,1060000.0,1135.0,,934.0,Apartment | 6262555,4,401,Resale,-,Al Derea Group,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai South,Waada by Bahria Town,Cascada,Cascada 2,1,865000.0,762.0,,1135.0,Apartment | 5211368,9,910,Initial Sale,-,BT Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Lakes Towers,Cluster D,Lake City Tower,,2,1660000.0,1245.0,,1333.0,Apartment | 3930955,25,2501,Resale,-,Tiger Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Marina,Zumurud Tower,,,1,1100000.0,819.0,,1343.0,Apartment | 3920441,11,1105,Resale,-,Bin Hamoodah,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Beach Residence,Bahar,Bahar 5,,4,4450000.0,2837.0,,1569.0,Apartment | 3920546,LP,P36-P37,Resale,-,Dubai Properties,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Jumeirah Village Triangle,JVT District 4,Voxa Residences,,1,1333900.0,669.0,,1994.0,Apartment | 6849737,22,2205,Initial Sale,-,Pantheon Properties Limited,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Al Warsan,Al Warsan 3,,,-,1900000.0,,5005.0,380.0,Land | 8110737,-,,Resale,-,,-,General,,,,-,-,-,-
+06 Apr 2026,Oqood,Living Legends,Al Ghurair Residences,Al Ghurair Residences 1 (Sinbad),,1,791126.0,973.0,,813.0,Apartment | 6457566,6,608,Resale,-,Amer Al Ghurair Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island B (Shore Island),Siora,Hado | Hado Tower C,2,3906000.0,1196.0,,3266.0,Apartment | 1011305,2,C209,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island B (Shore Island),Siora,Hado | Hado Tower B,2,4495000.0,1206.0,,3727.0,Apartment | 1011305,18,B1805,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Lakes Towers,Cluster D,Lake Terrace,,1,1260000.0,739.0,,1705.0,Apartment | 3930956,32,3203,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,Studio,1295075.0,420.0,,3084.0,Apartment | 3930950,3,302,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Business Bay,Urban Life,,,Studio,1020294.0,411.0,,2482.0,Apartment | 3460600,10,1002,Initial Sale,-,Urban Properties Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Al Satwa,Jumeirah Garden City,EVERGR1N House,,1,1781698.0,809.0,,2202.0,Apartment | 3343016,1,118,Initial Sale,-,Object 1,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai Silicon Oasis,Palace Towers,Palace Tower 2,,2,840000.0,989.0,,849.0,Apartment | 6002179,5,508,Resale,-,Tameer Holding Investment,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Arjan,Lincoln Park,Westside,,Studio,520000.0,454.0,,1145.0,Apartment | 6731358,2,226,Resale,-,DAMAC Properties,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Jumeirah Lakes Towers,Cluster F,Hilton Residences JLT,,Studio,1170580.0,389.0,,3009.0,Apartment | 3930950,6,604,Initial Sale,-,Emirates Mezna,-,-,,,,-,-,-,No
+06 Apr 2026,Title Deed,The Heights Country Club and Wellness,Salva,,,3,6744888.0,3340.0,4825.0,2019.0,Villa | 92515931,G+1,290,Initial Sale,-,Emaar,-,-,,,,-,-,-,-
+06 Apr 2026,Title Deed,Jumeirah Beach Residence,Bahar,Bahar 1,,Studio,800000.0,549.0,,1457.0,Apartment | 3920546,LP,P06,Resale,-,Dubai Properties,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Dubai South,Waada by Bahria Town,Cascada,Cascada 2,1,952000.0,768.0,,1240.0,Apartment | 5211368,7,713,Initial Sale,-,BT Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,International City,Ryze,,,1,1037555.0,929.0,,1117.0,Apartment | 6218455,5,502,Initial Sale,-,Aum Development,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Dubai South,Dubai South Residential District,Celestia,Celestia B,1,882836.0,975.0,,905.0,Apartment | 5213585,1,B162,Resale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island B (Shore Island),Siora,Hado | Hado Tower C,1,2568000.0,830.0,,3094.0,Apartment | 1011305,9,C903,Initial Sale,-,Beyond,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Ellington Sands,Ellington Sands II | Ellington Sands II Tower A,2,3452828.0,1172.0,,2946.0,Apartment | 1010151,6,A-620,Initial Sale,-,Ellington Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Beach Residence,Shams,Shams 1,,1,3260000.0,2598.0,,1255.0,Apartment | 3920539,LP,P27,Resale,-,Dubai Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Jumeirah Beach Residence,Shams,Shams 1,,1,900000.0,602.0,,1495.0,Apartment | 3920539,LP,P25,Resale,-,Dubai Properties,-,-,,,,-,-,-,No
+06 Apr 2026,Oqood,Dubai Islands,Island A (Central Island),Wynwood by Imtiaz,,1,2494000.0,941.0,,2650.0,Apartment | 1010448,14,1404,Initial Sale,-,Imtiaz Developments,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Motor City,Rabdan Building,,,1,920641.0,772.0,,1193.0,Apartment | 6740198,17,1711,Initial Sale,-,Al Fahim,-,-,,,,-,-,-,Yes
+06 Apr 2026,Oqood,DAMAC Lagoons,Lagoon Views,Valencia at Damac Lagoons,Valencia Tower D,Studio,682000.0,353.0,,1932.0,Apartment | 68311636,6,606,Initial Sale,-,DAMAC Properties,-,-,,,,-,-,-,Yes
+06 Apr 2026,Title Deed,Meydan Horizon,-,,,-,69745000.0,,32228.0,2164.0,Land | 6117226,-,,Resale,-,,-,General,,,,-,-,-,-
