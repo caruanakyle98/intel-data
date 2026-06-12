@@ -1,0 +1,25 @@
+# Fires a repository_dispatch to the Stradaintel repo whenever a CSV is pushed,
+# so the property-metrics snapshot rebuilds automatically (no manual Action run).
+#
+# Required repo secret:
+#   STRADA_DISPATCH_TOKEN — GitHub PAT that can dispatch to caruanakyle98/Stradaintel
+#     (fine-grained: Contents read & write on Stradaintel, or classic PAT with `repo` scope)
+name: Notify Stradaintel of CSV update
+
+on:
+  push:
+    paths:
+      - '**/*.csv'
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger property-metrics rebuild
+        run: |
+          curl -fsS -X POST \
+            -H "Authorization: Bearer ${{ secrets.STRADA_DISPATCH_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/caruanakyle98/Stradaintel/dispatches \
+            -d '{"event_type":"property_csv_updated"}'
